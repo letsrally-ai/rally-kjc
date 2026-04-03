@@ -8,8 +8,17 @@
     "lat": 1.3094310999999998,
     "lng": 103.9019026,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.98,
+    "avg_spend": 16.25,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.6,
     "rating_count": 33,
     "michelin": null
@@ -23,8 +32,17 @@
     "lat": 1.3094511,
     "lng": 103.9018876,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.5,
+    "avg_spend": 26.71,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.4,
     "rating_count": 29,
     "michelin": null
@@ -38,8 +56,17 @@
     "lat": 1.3094762,
     "lng": 103.90187189999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.19,
+    "avg_spend": 19,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.6,
     "rating_count": 206,
     "michelin": null
@@ -53,8 +80,17 @@
     "lat": 1.3095054,
     "lng": 103.90185149999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.64,
+    "avg_spend": 19.29,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.5,
     "rating_count": 58,
     "michelin": null
@@ -68,8 +104,17 @@
     "lat": 1.3095054,
     "lng": 103.90185149999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.11,
+    "avg_spend": 29.03,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.6,
     "rating_count": 36,
     "michelin": null
@@ -83,8 +128,17 @@
     "lat": 1.3095054,
     "lng": 103.90185149999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.19,
+    "avg_spend": 28.73,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.3,
     "rating_count": 14,
     "michelin": null
@@ -98,8 +152,17 @@
     "lat": 1.3094227,
     "lng": 103.9018584,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.72,
+    "avg_spend": 18.98,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4,
     "rating_count": 99,
     "michelin": null
@@ -113,8 +176,17 @@
     "lat": 1.3094322999999999,
     "lng": 103.90184959999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.98,
+    "avg_spend": 28.21,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.6,
     "rating_count": 98,
     "michelin": null
@@ -128,8 +200,17 @@
     "lat": 1.3094261,
     "lng": 103.90184819999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.63,
+    "avg_spend": 23.72,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 5,
     "rating_count": 5,
     "michelin": null
@@ -143,8 +224,17 @@
     "lat": 1.309426,
     "lng": 103.90184810000001,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.47,
+    "avg_spend": 19.59,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.7,
     "rating_count": 25,
     "michelin": null
@@ -158,8 +248,17 @@
     "lat": 1.3095345,
     "lng": 103.9018189,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.87,
+    "avg_spend": 25.46,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.3,
     "rating_count": 36,
     "michelin": null
@@ -173,8 +272,17 @@
     "lat": 1.3094352999999999,
     "lng": 103.90183069999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.55,
+    "avg_spend": 16.85,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4,
     "rating_count": 8,
     "michelin": null
@@ -188,8 +296,17 @@
     "lat": 1.3094352999999999,
     "lng": 103.90183069999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.83,
+    "avg_spend": 19.17,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 5,
     "rating_count": 4,
     "michelin": null
@@ -203,8 +320,17 @@
     "lat": 1.3094352999999999,
     "lng": 103.90183069999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.24,
+    "avg_spend": 19.59,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.4,
     "rating_count": 38,
     "michelin": null
@@ -218,8 +344,17 @@
     "lat": 1.3094352999999999,
     "lng": 103.90183069999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.48,
+    "avg_spend": 20.17,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.9,
     "rating_count": 10,
     "michelin": null
@@ -233,8 +368,17 @@
     "lat": 1.3094352999999999,
     "lng": 103.90183069999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.75,
+    "avg_spend": 20.42,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.2,
     "rating_count": 256,
     "michelin": null
@@ -248,8 +392,17 @@
     "lat": 1.3094352999999999,
     "lng": 103.90183069999999,
     "heritage": false,
+    "established": null,
     "price_tier": "budget",
-    "avg_spend": 9.8,
+    "avg_spend": 7.89,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.2,
     "rating_count": 140,
     "michelin": null
@@ -263,8 +416,17 @@
     "lat": 1.3094352999999999,
     "lng": 103.90183069999999,
     "heritage": false,
+    "established": null,
     "price_tier": "budget",
-    "avg_spend": 5.06,
+    "avg_spend": 9.94,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.8,
     "rating_count": 261,
     "michelin": null
@@ -278,8 +440,17 @@
     "lat": 1.3094352999999999,
     "lng": 103.90183069999999,
     "heritage": false,
+    "established": null,
     "price_tier": "budget",
-    "avg_spend": 5.11,
+    "avg_spend": 5.95,
+    "peak_hours": [
+      "07:00-09:00",
+      "11:30-13:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.1,
     "rating_count": 2200,
     "michelin": null
@@ -293,8 +464,17 @@
     "lat": 1.3097037999999999,
     "lng": 103.90204089999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.53,
+    "avg_spend": 27.04,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.5,
     "rating_count": 20,
     "michelin": null
@@ -308,8 +488,17 @@
     "lat": 1.3094766,
     "lng": 103.9018219,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.23,
+    "avg_spend": 19.64,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 5,
     "rating_count": 5,
     "michelin": null
@@ -323,8 +512,17 @@
     "lat": 1.3097142,
     "lng": 103.9020814,
     "heritage": false,
+    "established": null,
     "price_tier": "budget",
-    "avg_spend": 8.86,
+    "avg_spend": 6.89,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.4,
     "rating_count": 229,
     "michelin": null
@@ -338,8 +536,17 @@
     "lat": 1.3093941999999998,
     "lng": 103.90219859999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.96,
+    "avg_spend": 26.96,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.2,
     "rating_count": 397,
     "michelin": null
@@ -353,8 +560,17 @@
     "lat": 1.309445,
     "lng": 103.9017817,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.11,
+    "avg_spend": 17.54,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.9,
     "rating_count": 37,
     "michelin": null
@@ -368,8 +584,17 @@
     "lat": 1.3100736,
     "lng": 103.9020268,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.45,
+    "avg_spend": 17.77,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.6,
     "rating_count": 434,
     "michelin": null
@@ -383,8 +608,17 @@
     "lat": 1.3102110999999999,
     "lng": 103.9017251,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 15.65,
+    "avg_spend": 21.18,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.7,
     "rating_count": 72,
     "michelin": null
@@ -398,8 +632,17 @@
     "lat": 1.3103137,
     "lng": 103.901645,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.52,
+    "avg_spend": 21.21,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.7,
     "rating_count": 329,
     "michelin": null
@@ -413,8 +656,17 @@
     "lat": 1.3097244,
     "lng": 103.90108029999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.41,
+    "avg_spend": 23.44,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": null,
     "rating_count": null,
     "michelin": null
@@ -428,8 +680,17 @@
     "lat": 1.3104898,
     "lng": 103.9016795,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.18,
+    "avg_spend": 19.12,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.8,
     "rating_count": 104,
     "michelin": null
@@ -443,8 +704,17 @@
     "lat": 1.3084767,
     "lng": 103.90297319999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.3,
+    "avg_spend": 16.15,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.7,
     "rating_count": 31,
     "michelin": null
@@ -458,8 +728,17 @@
     "lat": 1.3074983,
     "lng": 103.9035626,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.32,
+    "avg_spend": 27.19,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.9,
     "rating_count": 51,
     "michelin": null
@@ -473,8 +752,17 @@
     "lat": 1.3118862,
     "lng": 103.90074279999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.69,
+    "avg_spend": 22.56,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.5,
     "rating_count": 573,
     "michelin": null
@@ -488,8 +776,17 @@
     "lat": 1.3073759999999999,
     "lng": 103.90367119999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 23.21,
+    "avg_spend": 20.22,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.6,
     "rating_count": 525,
     "michelin": null
@@ -503,8 +800,17 @@
     "lat": 1.3119779999999999,
     "lng": 103.9006426,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 15.3,
+    "avg_spend": 20.23,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.3,
     "rating_count": 1163,
     "michelin": null
@@ -518,8 +824,17 @@
     "lat": 1.3072603,
     "lng": 103.90385889999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 23.39,
+    "avg_spend": 26.12,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.7,
     "rating_count": 115,
     "michelin": null
@@ -533,8 +848,17 @@
     "lat": 1.3119638,
     "lng": 103.9004161,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.79,
+    "avg_spend": 27.63,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 5,
     "rating_count": 16,
     "michelin": null
@@ -548,8 +872,17 @@
     "lat": 1.3074588,
     "lng": 103.9041096,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.82,
+    "avg_spend": 16.23,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.8,
     "rating_count": 43,
     "michelin": null
@@ -563,8 +896,17 @@
     "lat": 1.3123129,
     "lng": 103.90016159999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.64,
+    "avg_spend": 21.41,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.7,
     "rating_count": 418,
     "michelin": null
@@ -578,8 +920,17 @@
     "lat": 1.3068651999999998,
     "lng": 103.9041127,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.4,
+    "avg_spend": 29.13,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.1,
     "rating_count": 260,
     "michelin": null
@@ -593,8 +944,17 @@
     "lat": 1.3096470000000002,
     "lng": 103.90232189999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.51,
+    "avg_spend": 23.6,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.7,
     "rating_count": 219,
     "michelin": null
@@ -608,8 +968,17 @@
     "lat": 1.3100486,
     "lng": 103.9020489,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 23.81,
+    "avg_spend": 16.88,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.9,
     "rating_count": 61,
     "michelin": null
@@ -623,8 +992,17 @@
     "lat": 1.3106414,
     "lng": 103.9015677,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.02,
+    "avg_spend": 18.95,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.5,
     "rating_count": 289,
     "michelin": null
@@ -638,8 +1016,17 @@
     "lat": 1.3106929999999999,
     "lng": 103.9015501,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.08,
+    "avg_spend": 26.43,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.9,
     "rating_count": 93,
     "michelin": null
@@ -653,8 +1040,17 @@
     "lat": 1.3106929999999999,
     "lng": 103.9015501,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.82,
+    "avg_spend": 21.44,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.3,
     "rating_count": 13,
     "michelin": null
@@ -668,8 +1064,17 @@
     "lat": 1.308466,
     "lng": 103.90303899999999,
     "heritage": true,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 23.73,
+    "avg_spend": 21.55,
+    "peak_hours": [
+      "07:00-09:00",
+      "11:30-13:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.6,
     "rating_count": 394,
     "michelin": null
@@ -683,8 +1088,17 @@
     "lat": 1.3075132,
     "lng": 103.90357850000001,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.84,
+    "avg_spend": 15.21,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.8,
     "rating_count": 124,
     "michelin": null
@@ -698,8 +1112,17 @@
     "lat": 1.3119105,
     "lng": 103.9007229,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.65,
+    "avg_spend": 27.9,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.8,
     "rating_count": 405,
     "michelin": null
@@ -713,8 +1136,17 @@
     "lat": 1.31201,
     "lng": 103.9004252,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.11,
+    "avg_spend": 19.32,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 2.6,
     "rating_count": 21,
     "michelin": null
@@ -728,8 +1160,17 @@
     "lat": 1.3132835000000003,
     "lng": 103.90166149999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.53,
+    "avg_spend": 25.02,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 5,
     "rating_count": 9,
     "michelin": null
@@ -743,8 +1184,17 @@
     "lat": 1.3127664,
     "lng": 103.8998941,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.99,
+    "avg_spend": 29.33,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.4,
     "rating_count": 362,
     "michelin": null
@@ -758,8 +1208,17 @@
     "lat": 1.3125651,
     "lng": 103.8992421,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.85,
+    "avg_spend": 25.94,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.4,
     "rating_count": 474,
     "michelin": null
@@ -773,8 +1232,17 @@
     "lat": 1.3136554,
     "lng": 103.901753,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 15.15,
+    "avg_spend": 15.3,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.9,
     "rating_count": 39,
     "michelin": null
@@ -788,8 +1256,17 @@
     "lat": 1.313721,
     "lng": 103.90179289999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.29,
+    "avg_spend": 27.08,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.6,
     "rating_count": 122,
     "michelin": null
@@ -803,8 +1280,17 @@
     "lat": 1.3133906,
     "lng": 103.90032959999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.48,
+    "avg_spend": 20.21,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.7,
     "rating_count": 156,
     "michelin": null
@@ -818,8 +1304,17 @@
     "lat": 1.3133614999999998,
     "lng": 103.900115,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.99,
+    "avg_spend": 15.32,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.6,
     "rating_count": 499,
     "michelin": null
@@ -833,8 +1328,17 @@
     "lat": 1.3100736,
     "lng": 103.9020268,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.55,
+    "avg_spend": 24.52,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": null,
     "rating_count": null,
     "michelin": null
@@ -848,8 +1352,17 @@
     "lat": 1.309083,
     "lng": 103.90243749999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.07,
+    "avg_spend": 15.68,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.5,
     "rating_count": 264,
     "michelin": null
@@ -863,8 +1376,17 @@
     "lat": 1.3102494999999998,
     "lng": 103.9016991,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.8,
+    "avg_spend": 29.8,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4,
     "rating_count": 106,
     "michelin": null
@@ -872,14 +1394,23 @@
   {
     "id": "outlet_059",
     "name": "La Bottega Enoteca",
-    "segment": "bars_wine",
+    "segment": "modern_restaurant",
     "sub_type": "italian_restaurant",
     "street": "Joo Chiat Rd",
     "lat": 1.3087539,
     "lng": 103.9027938,
     "heritage": false,
+    "established": null,
     "price_tier": "premium",
-    "avg_spend": 50.16,
+    "avg_spend": 38.07,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.7,
     "rating_count": 2984,
     "michelin": null
@@ -893,8 +1424,17 @@
     "lat": 1.3105944,
     "lng": 103.90161739999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 15.56,
+    "avg_spend": 28.45,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.8,
     "rating_count": 4,
     "michelin": null
@@ -908,8 +1448,17 @@
     "lat": 1.3086749000000002,
     "lng": 103.9028215,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.04,
+    "avg_spend": 22.12,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.6,
     "rating_count": 49,
     "michelin": null
@@ -917,14 +1466,23 @@
   {
     "id": "outlet_062",
     "name": "Carlitos Casa de Comidas",
-    "segment": "bars_wine",
+    "segment": "modern_restaurant",
     "sub_type": "spanish_restaurant",
     "street": "Joo Chiat Rd",
     "lat": 1.3086725,
     "lng": 103.9028355,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.95,
+    "avg_spend": 29.61,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.5,
     "rating_count": 846,
     "michelin": null
@@ -932,14 +1490,23 @@
   {
     "id": "outlet_063",
     "name": "GS Good Shiok Bistro Bar (金曲)",
-    "segment": "bars_wine",
+    "segment": "modern_restaurant",
     "sub_type": "bar",
     "street": "Joo Chiat Rd",
     "lat": 1.3107712999999999,
     "lng": 103.9014869,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.19,
+    "avg_spend": 16.72,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.6,
     "rating_count": 8,
     "michelin": null
@@ -953,8 +1520,17 @@
     "lat": 1.310994,
     "lng": 103.90143959999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.18,
+    "avg_spend": 28.31,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4,
     "rating_count": 1,
     "michelin": null
@@ -968,8 +1544,17 @@
     "lat": 1.310994,
     "lng": 103.90143959999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.49,
+    "avg_spend": 24.41,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.3,
     "rating_count": 54,
     "michelin": null
@@ -983,8 +1568,17 @@
     "lat": 1.3121235,
     "lng": 103.9003434,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 23.89,
+    "avg_spend": 21.69,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": null,
     "rating_count": null,
     "michelin": null
@@ -998,8 +1592,17 @@
     "lat": 1.3070754,
     "lng": 103.903955,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.03,
+    "avg_spend": 18.91,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.9,
     "rating_count": 64,
     "michelin": null
@@ -1007,14 +1610,23 @@
   {
     "id": "outlet_068",
     "name": "Bored Tacos",
-    "segment": "casual_dining",
+    "segment": "modern_restaurant",
     "sub_type": "mexican_restaurant",
     "street": "Joo Chiat Rd",
     "lat": 1.3093598,
     "lng": 103.90249999999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.64,
+    "avg_spend": 17.02,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.6,
     "rating_count": 285,
     "michelin": null
@@ -1022,14 +1634,23 @@
   {
     "id": "outlet_069",
     "name": "Ah Yee's Soon Kueh",
-    "segment": "casual_dining",
+    "segment": "bakery_dessert",
     "sub_type": "restaurant",
     "street": "Tembeling Rd",
     "lat": 1.3110206,
     "lng": 103.90227530000001,
     "heritage": false,
+    "established": null,
     "price_tier": "budget",
-    "avg_spend": 6.61,
+    "avg_spend": 9.61,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.4,
     "rating_count": 290,
     "michelin": null
@@ -1043,8 +1664,17 @@
     "lat": 1.3119638,
     "lng": 103.9004161,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.65,
+    "avg_spend": 22.91,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.8,
     "rating_count": 131,
     "michelin": null
@@ -1052,14 +1682,23 @@
   {
     "id": "outlet_071",
     "name": "Papi's Tacos Katong",
-    "segment": "bars_wine",
+    "segment": "modern_restaurant",
     "sub_type": "mexican_restaurant",
     "street": "Joo Chiat Rd",
     "lat": 1.3064510999999999,
     "lng": 103.9044538,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.71,
+    "avg_spend": 24.07,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.3,
     "rating_count": 394,
     "michelin": null
@@ -1067,14 +1706,23 @@
   {
     "id": "outlet_072",
     "name": "Cugini Trattoria Pizzeria",
-    "segment": "casual_dining",
+    "segment": "modern_restaurant",
     "sub_type": "italian_restaurant",
     "street": "Joo Chiat Pl",
     "lat": 1.3134658,
     "lng": 103.9005505,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.69,
+    "avg_spend": 28.62,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.4,
     "rating_count": 806,
     "michelin": null
@@ -1088,8 +1736,17 @@
     "lat": 1.3136781,
     "lng": 103.9010957,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.65,
+    "avg_spend": 29.46,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.7,
     "rating_count": 158,
     "michelin": null
@@ -1103,8 +1760,17 @@
     "lat": 1.3135449000000001,
     "lng": 103.9012657,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.26,
+    "avg_spend": 19.73,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.8,
     "rating_count": 4,
     "michelin": null
@@ -1118,8 +1784,17 @@
     "lat": 1.3135477,
     "lng": 103.90123589999999,
     "heritage": false,
+    "established": null,
     "price_tier": "budget",
-    "avg_spend": 5.27,
+    "avg_spend": 7.28,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.9,
     "rating_count": 54,
     "michelin": null
@@ -1127,14 +1802,23 @@
   {
     "id": "outlet_076",
     "name": "Marlow's Deli Joo Chiat",
-    "segment": "specialty_cafe",
+    "segment": "gourmet_retail",
     "sub_type": "deli",
     "street": "Joo Chiat Rd",
     "lat": 1.3129191,
     "lng": 103.8997065,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.01,
+    "avg_spend": 15.61,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.5,
     "rating_count": 207,
     "michelin": null
@@ -1148,8 +1832,17 @@
     "lat": 1.3136769,
     "lng": 103.90186609999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 15.92,
+    "avg_spend": 27.71,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.6,
     "rating_count": 7,
     "michelin": null
@@ -1163,8 +1856,17 @@
     "lat": 1.3059337,
     "lng": 103.90468229999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 15.32,
+    "avg_spend": 22.84,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.9,
     "rating_count": 125,
     "michelin": null
@@ -1178,8 +1880,17 @@
     "lat": 1.3046292,
     "lng": 103.8962284,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.27,
+    "avg_spend": 20.86,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.3,
     "rating_count": 568,
     "michelin": null
@@ -1193,8 +1904,17 @@
     "lat": 1.3059448999999999,
     "lng": 103.8958662,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.25,
+    "avg_spend": 19.88,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.2,
     "rating_count": 527,
     "michelin": null
@@ -1208,8 +1928,17 @@
     "lat": 1.3060298,
     "lng": 103.8960968,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.53,
+    "avg_spend": 27.12,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.1,
     "rating_count": 417,
     "michelin": null
@@ -1223,8 +1952,17 @@
     "lat": 1.3060895,
     "lng": 103.89572830000002,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.46,
+    "avg_spend": 18.28,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.5,
     "rating_count": 414,
     "michelin": null
@@ -1238,8 +1976,17 @@
     "lat": 1.3061782,
     "lng": 103.8961387,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.78,
+    "avg_spend": 17.01,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.3,
     "rating_count": 228,
     "michelin": null
@@ -1253,8 +2000,17 @@
     "lat": 1.3062911,
     "lng": 103.8957449,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.7,
+    "avg_spend": 16.67,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.9,
     "rating_count": 886,
     "michelin": null
@@ -1268,8 +2024,17 @@
     "lat": 1.303799,
     "lng": 103.896478,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 23.79,
+    "avg_spend": 17.55,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.5,
     "rating_count": 537,
     "michelin": null
@@ -1283,8 +2048,17 @@
     "lat": 1.3063459,
     "lng": 103.89571719999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.03,
+    "avg_spend": 17.93,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.6,
     "rating_count": 96,
     "michelin": null
@@ -1292,14 +2066,23 @@
   {
     "id": "outlet_087",
     "name": "Bruno's Pizzeria & Grill Katong",
-    "segment": "casual_dining",
+    "segment": "modern_restaurant",
     "sub_type": "pizza_restaurant",
     "street": "Tanjong Katong Rd",
     "lat": 1.303723,
     "lng": 103.8965001,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.39,
+    "avg_spend": 19.28,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.3,
     "rating_count": 596,
     "michelin": null
@@ -1313,8 +2096,17 @@
     "lat": 1.3063687,
     "lng": 103.89561739999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.82,
+    "avg_spend": 26.58,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.4,
     "rating_count": 42,
     "michelin": null
@@ -1322,14 +2114,23 @@
   {
     "id": "outlet_089",
     "name": "Little Italy - Katong",
-    "segment": "casual_dining",
+    "segment": "modern_restaurant",
     "sub_type": "italian_restaurant",
     "street": "Tanjong Katong Rd",
     "lat": 1.3064201,
     "lng": 103.8959361,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.47,
+    "avg_spend": 25.52,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.3,
     "rating_count": 555,
     "michelin": null
@@ -1343,8 +2144,17 @@
     "lat": 1.3064137,
     "lng": 103.8956848,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.18,
+    "avg_spend": 29.59,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.9,
     "rating_count": 46,
     "michelin": null
@@ -1358,8 +2168,17 @@
     "lat": 1.303647,
     "lng": 103.89652199999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.78,
+    "avg_spend": 24.66,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.9,
     "rating_count": 53,
     "michelin": null
@@ -1367,14 +2186,23 @@
   {
     "id": "outlet_092",
     "name": "Danji Korean BBQ Buffet",
-    "segment": "casual_dining",
+    "segment": "modern_restaurant",
     "sub_type": "korean_restaurant",
     "street": "Tanjong Katong Rd",
     "lat": 1.3035447999999998,
     "lng": 103.8965133,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.69,
+    "avg_spend": 18.74,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.6,
     "rating_count": 383,
     "michelin": null
@@ -1388,8 +2216,17 @@
     "lat": 1.3065691,
     "lng": 103.89563799999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.42,
+    "avg_spend": 28.96,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 5,
     "rating_count": 10,
     "michelin": null
@@ -1403,8 +2240,17 @@
     "lat": 1.3066195,
     "lng": 103.895918,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.15,
+    "avg_spend": 16.02,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4,
     "rating_count": 1614,
     "michelin": null
@@ -1418,8 +2264,17 @@
     "lat": 1.3066478,
     "lng": 103.8956001,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.88,
+    "avg_spend": 18.78,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.6,
     "rating_count": 413,
     "michelin": null
@@ -1433,8 +2288,17 @@
     "lat": 1.3067510999999998,
     "lng": 103.89546759999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.51,
+    "avg_spend": 16.7,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.2,
     "rating_count": 1596,
     "michelin": null
@@ -1448,8 +2312,17 @@
     "lat": 1.3032735,
     "lng": 103.8966667,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.32,
+    "avg_spend": 24.69,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.6,
     "rating_count": 10,
     "michelin": null
@@ -1463,8 +2336,17 @@
     "lat": 1.3069273,
     "lng": 103.8957681,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.66,
+    "avg_spend": 20.33,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.6,
     "rating_count": 115,
     "michelin": null
@@ -1478,8 +2360,17 @@
     "lat": 1.3030373,
     "lng": 103.896666,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.3,
+    "avg_spend": 16.37,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.4,
     "rating_count": 37,
     "michelin": null
@@ -1493,8 +2384,17 @@
     "lat": 1.3030378999999999,
     "lng": 103.8966684,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.36,
+    "avg_spend": 15.05,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.7,
     "rating_count": 23,
     "michelin": null
@@ -1508,8 +2408,17 @@
     "lat": 1.3070829,
     "lng": 103.89566699999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.43,
+    "avg_spend": 19.56,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 5,
     "rating_count": 3,
     "michelin": null
@@ -1523,8 +2432,17 @@
     "lat": 1.3071458999999999,
     "lng": 103.8956539,
     "heritage": false,
+    "established": null,
     "price_tier": "budget",
-    "avg_spend": 11.39,
+    "avg_spend": 11.04,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.3,
     "rating_count": 111,
     "michelin": null
@@ -1538,8 +2456,17 @@
     "lat": 1.3071544,
     "lng": 103.8956767,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.61,
+    "avg_spend": 21.68,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.5,
     "rating_count": 11,
     "michelin": null
@@ -1553,8 +2480,17 @@
     "lat": 1.3073245999999998,
     "lng": 103.89527129999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.92,
+    "avg_spend": 24.23,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.5,
     "rating_count": 885,
     "michelin": null
@@ -1568,8 +2504,17 @@
     "lat": 1.3078111,
     "lng": 103.89507599999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.22,
+    "avg_spend": 19.59,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.7,
     "rating_count": 15,
     "michelin": null
@@ -1583,8 +2528,17 @@
     "lat": 1.3080163999999999,
     "lng": 103.89540009999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.14,
+    "avg_spend": 23.89,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.3,
     "rating_count": 676,
     "michelin": null
@@ -1598,8 +2552,17 @@
     "lat": 1.3061231,
     "lng": 103.89626829999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.19,
+    "avg_spend": 25.69,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": null,
     "rating_count": null,
     "michelin": null
@@ -1613,8 +2576,17 @@
     "lat": 1.3032735,
     "lng": 103.8966667,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.53,
+    "avg_spend": 18.53,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.3,
     "rating_count": 242,
     "michelin": null
@@ -1628,8 +2600,17 @@
     "lat": 1.306891,
     "lng": 103.89540219999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.49,
+    "avg_spend": 16.8,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.7,
     "rating_count": 35,
     "michelin": null
@@ -1643,8 +2624,17 @@
     "lat": 1.3070829,
     "lng": 103.89566699999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.84,
+    "avg_spend": 20.92,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.3,
     "rating_count": 353,
     "michelin": null
@@ -1658,8 +2648,17 @@
     "lat": 1.308182,
     "lng": 103.895263,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.43,
+    "avg_spend": 22.29,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.7,
     "rating_count": 397,
     "michelin": null
@@ -1673,8 +2672,17 @@
     "lat": 1.3075329999999998,
     "lng": 103.90788099999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 23.43,
+    "avg_spend": 20.69,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.2,
     "rating_count": 841,
     "michelin": null
@@ -1688,8 +2696,17 @@
     "lat": 1.3075035,
     "lng": 103.90761619999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.11,
+    "avg_spend": 16.08,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 5,
     "rating_count": 3,
     "michelin": null
@@ -1697,14 +2714,23 @@
   {
     "id": "outlet_114",
     "name": "Meet 4 Meat (Beef Wellington & Steak)",
-    "segment": "casual_dining",
+    "segment": "modern_restaurant",
     "sub_type": "steak_house",
     "street": "E Coast Rd",
     "lat": 1.3075035,
     "lng": 103.90761619999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 23.01,
+    "avg_spend": 27.99,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.2,
     "rating_count": 839,
     "michelin": null
@@ -1718,8 +2744,17 @@
     "lat": 1.3074013,
     "lng": 103.907457,
     "heritage": false,
+    "established": null,
     "price_tier": "budget",
-    "avg_spend": 9.84,
+    "avg_spend": 5.21,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4,
     "rating_count": 558,
     "michelin": null
@@ -1733,8 +2768,17 @@
     "lat": 1.3074013,
     "lng": 103.907457,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 15.4,
+    "avg_spend": 19.49,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": null,
     "rating_count": null,
     "michelin": null
@@ -1748,8 +2792,17 @@
     "lat": 1.3073504999999999,
     "lng": 103.9073515,
     "heritage": true,
+    "established": 1998,
     "price_tier": "mid",
-    "avg_spend": 24.95,
+    "avg_spend": 20.18,
+    "peak_hours": [
+      "07:00-09:00",
+      "11:30-13:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.2,
     "rating_count": 633,
     "michelin": "bib_gourmand"
@@ -1763,8 +2816,17 @@
     "lat": 1.3073515,
     "lng": 103.90734259999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.69,
+    "avg_spend": 16.76,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.3,
     "rating_count": 18,
     "michelin": null
@@ -1772,14 +2834,23 @@
   {
     "id": "outlet_119",
     "name": "Taishu Yakiniku Horumon Mokurin",
-    "segment": "casual_dining",
+    "segment": "modern_restaurant",
     "sub_type": "restaurant",
     "street": "E Coast Rd",
     "lat": 1.3073915,
     "lng": 103.9073734,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 15.02,
+    "avg_spend": 18.44,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.3,
     "rating_count": 60,
     "michelin": null
@@ -1792,9 +2863,18 @@
     "street": "E Coast Rd",
     "lat": 1.3072873,
     "lng": 103.9072735,
-    "heritage": false,
+    "heritage": true,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.05,
+    "avg_spend": 27.99,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4,
     "rating_count": 319,
     "michelin": null
@@ -1808,8 +2888,17 @@
     "lat": 1.307461,
     "lng": 103.907404,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.03,
+    "avg_spend": 15.91,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": null,
     "rating_count": null,
     "michelin": null
@@ -1817,14 +2906,23 @@
   {
     "id": "outlet_122",
     "name": "Doongji Korean Restaurant",
-    "segment": "casual_dining",
+    "segment": "modern_restaurant",
     "sub_type": "korean_restaurant",
     "street": "E Coast Rd",
     "lat": 1.307461,
     "lng": 103.907404,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.46,
+    "avg_spend": 27.07,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.9,
     "rating_count": 603,
     "michelin": null
@@ -1838,8 +2936,17 @@
     "lat": 1.3075503,
     "lng": 103.9071627,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.69,
+    "avg_spend": 20.85,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": null,
     "rating_count": null,
     "michelin": null
@@ -1847,14 +2954,23 @@
   {
     "id": "outlet_124",
     "name": "Hyang Yeon Korean BBQ 2 (East Coast)",
-    "segment": "casual_dining",
+    "segment": "modern_restaurant",
     "sub_type": "korean_restaurant",
     "street": "E Coast Rd",
     "lat": 1.3076651,
     "lng": 103.9072535,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.85,
+    "avg_spend": 18.03,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.7,
     "rating_count": 139,
     "michelin": null
@@ -1862,14 +2978,23 @@
   {
     "id": "outlet_125",
     "name": "Sakae Sushi",
-    "segment": "casual_dining",
+    "segment": "modern_restaurant",
     "sub_type": "japanese_restaurant",
     "street": "E Coast Rd",
     "lat": 1.3074792,
     "lng": 103.90690169999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.56,
+    "avg_spend": 26.07,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 2.8,
     "rating_count": 98,
     "michelin": null
@@ -1877,14 +3002,23 @@
   {
     "id": "outlet_126",
     "name": "BBQ Box (East Coast Rd) 串烧工坊 (东海岸)",
-    "segment": "bars_wine",
+    "segment": "modern_restaurant",
     "sub_type": "bar_and_grill",
     "street": "E Coast Rd",
     "lat": 1.3071625,
     "lng": 103.9065279,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.73,
+    "avg_spend": 28.78,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.7,
     "rating_count": 554,
     "michelin": null
@@ -1898,8 +3032,17 @@
     "lat": 1.3074225,
     "lng": 103.9076698,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.97,
+    "avg_spend": 25.25,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3,
     "rating_count": 2,
     "michelin": null
@@ -1913,8 +3056,17 @@
     "lat": 1.3075077,
     "lng": 103.9076247,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.72,
+    "avg_spend": 19.01,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.3,
     "rating_count": 3,
     "michelin": null
@@ -1928,8 +3080,17 @@
     "lat": 1.3075035,
     "lng": 103.90761619999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 23.12,
+    "avg_spend": 29.41,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": null,
     "rating_count": null,
     "michelin": null
@@ -1943,8 +3104,17 @@
     "lat": 1.3075341,
     "lng": 103.9076011,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.09,
+    "avg_spend": 21.73,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.9,
     "rating_count": 11,
     "michelin": null
@@ -1958,8 +3128,17 @@
     "lat": 1.3072451,
     "lng": 103.9071171,
     "heritage": true,
+    "established": 1925,
     "price_tier": "budget",
-    "avg_spend": 5.7,
+    "avg_spend": 11.34,
+    "peak_hours": [
+      "07:00-09:00",
+      "11:30-13:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4,
     "rating_count": 1519,
     "michelin": "bib_gourmand"
@@ -1973,8 +3152,17 @@
     "lat": 1.3078182,
     "lng": 103.90750369999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.64,
+    "avg_spend": 26.4,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4,
     "rating_count": 621,
     "michelin": null
@@ -1988,8 +3176,17 @@
     "lat": 1.3075302,
     "lng": 103.9069801,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.79,
+    "avg_spend": 26.02,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.4,
     "rating_count": 373,
     "michelin": null
@@ -2003,8 +3200,17 @@
     "lat": 1.3074792,
     "lng": 103.90690169999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.59,
+    "avg_spend": 26.3,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.3,
     "rating_count": 3,
     "michelin": null
@@ -2018,8 +3224,17 @@
     "lat": 1.307289,
     "lng": 103.9065126,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.12,
+    "avg_spend": 20.91,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4,
     "rating_count": 382,
     "michelin": null
@@ -2033,8 +3248,17 @@
     "lat": 1.3085856999999999,
     "lng": 103.91115339999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.04,
+    "avg_spend": 27.68,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.5,
     "rating_count": 25,
     "michelin": null
@@ -2042,14 +3266,23 @@
   {
     "id": "outlet_137",
     "name": "BreakfastGrill - East Coast",
-    "segment": "specialty_cafe",
+    "segment": "modern_restaurant",
     "sub_type": "cafe",
     "street": "E Coast Rd",
     "lat": 1.3086411,
     "lng": 103.9113464,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.34,
+    "avg_spend": 29.93,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.5,
     "rating_count": 841,
     "michelin": null
@@ -2057,14 +3290,23 @@
   {
     "id": "outlet_138",
     "name": "DJDH Ramen Restaurant (Da Jia Dou Hao) 大家都好",
-    "segment": "specialty_cafe",
+    "segment": "modern_restaurant",
     "sub_type": "restaurant",
     "street": "E Coast Rd",
     "lat": 1.3086841999999999,
     "lng": 103.9113904,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.58,
+    "avg_spend": 25.95,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.9,
     "rating_count": 151,
     "michelin": null
@@ -2078,8 +3320,17 @@
     "lat": 1.3029530999999999,
     "lng": 103.9068695,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.24,
+    "avg_spend": 17.26,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.1,
     "rating_count": 28,
     "michelin": null
@@ -2093,8 +3344,17 @@
     "lat": 1.3028532,
     "lng": 103.9069225,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.21,
+    "avg_spend": 18.75,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.1,
     "rating_count": 47,
     "michelin": null
@@ -2108,8 +3368,17 @@
     "lat": 1.3086050999999999,
     "lng": 103.91174679999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.41,
+    "avg_spend": 26.26,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.2,
     "rating_count": 40,
     "michelin": null
@@ -2123,8 +3392,17 @@
     "lat": 1.3034955,
     "lng": 103.90613110000001,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.56,
+    "avg_spend": 27.79,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.5,
     "rating_count": 40,
     "michelin": null
@@ -2138,8 +3416,17 @@
     "lat": 1.3087095,
     "lng": 103.91172549999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.3,
+    "avg_spend": 26.87,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.8,
     "rating_count": 16,
     "michelin": null
@@ -2153,8 +3440,17 @@
     "lat": 1.3035431,
     "lng": 103.9089223,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 23.01,
+    "avg_spend": 27.09,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": null,
     "rating_count": null,
     "michelin": null
@@ -2168,8 +3464,17 @@
     "lat": 1.3083046,
     "lng": 103.90798799999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.08,
+    "avg_spend": 20.14,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 2.3,
     "rating_count": 3,
     "michelin": null
@@ -2183,8 +3488,17 @@
     "lat": 1.3067703,
     "lng": 103.9064045,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.03,
+    "avg_spend": 17.41,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": null,
     "rating_count": null,
     "michelin": null
@@ -2198,8 +3512,17 @@
     "lat": 1.3063008,
     "lng": 103.9056809,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.26,
+    "avg_spend": 16.98,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.3,
     "rating_count": 135,
     "michelin": null
@@ -2213,8 +3536,17 @@
     "lat": 1.3061319,
     "lng": 103.9054456,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.65,
+    "avg_spend": 29.84,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": null,
     "rating_count": null,
     "michelin": null
@@ -2228,8 +3560,17 @@
     "lat": 1.3027114,
     "lng": 103.9070261,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 15.31,
+    "avg_spend": 21.51,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": null,
     "rating_count": null,
     "michelin": null
@@ -2243,8 +3584,17 @@
     "lat": 1.3052002,
     "lng": 103.9050645,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 15.59,
+    "avg_spend": 15.25,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.7,
     "rating_count": 111,
     "michelin": null
@@ -2258,8 +3608,17 @@
     "lat": 1.3052002,
     "lng": 103.9050645,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.87,
+    "avg_spend": 17.33,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.7,
     "rating_count": 233,
     "michelin": null
@@ -2273,8 +3632,17 @@
     "lat": 1.3061133999999999,
     "lng": 103.9049587,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.07,
+    "avg_spend": 26.15,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": null,
     "rating_count": null,
     "michelin": null
@@ -2288,8 +3656,17 @@
     "lat": 1.301955,
     "lng": 103.9091743,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 23.36,
+    "avg_spend": 20.67,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.8,
     "rating_count": 8,
     "michelin": null
@@ -2303,8 +3680,17 @@
     "lat": 1.3025540000000002,
     "lng": 103.906736,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.34,
+    "avg_spend": 24.39,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": null,
     "rating_count": null,
     "michelin": null
@@ -2318,8 +3704,17 @@
     "lat": 1.3089954,
     "lng": 103.9118183,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.14,
+    "avg_spend": 19.18,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.6,
     "rating_count": 24,
     "michelin": null
@@ -2333,8 +3728,17 @@
     "lat": 1.3052522,
     "lng": 103.90475789999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.95,
+    "avg_spend": 23.66,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.8,
     "rating_count": 77,
     "michelin": null
@@ -2348,8 +3752,17 @@
     "lat": 1.3024044,
     "lng": 103.90660729999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.61,
+    "avg_spend": 25.86,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.9,
     "rating_count": 24,
     "michelin": null
@@ -2363,8 +3776,17 @@
     "lat": 1.3026708999999999,
     "lng": 103.9061973,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.16,
+    "avg_spend": 22.42,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.6,
     "rating_count": 17,
     "michelin": null
@@ -2378,8 +3800,17 @@
     "lat": 1.3095139999999998,
     "lng": 103.91172549999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.55,
+    "avg_spend": 24.39,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 5,
     "rating_count": 182,
     "michelin": null
@@ -2393,8 +3824,17 @@
     "lat": 1.3081977,
     "lng": 103.9090105,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.25,
+    "avg_spend": 21.98,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.2,
     "rating_count": 25,
     "michelin": null
@@ -2402,14 +3842,23 @@
   {
     "id": "outlet_161",
     "name": "Within The Walls Dessert & Grill Bar",
-    "segment": "bars_wine",
+    "segment": "modern_restaurant",
     "sub_type": "chinese_restaurant",
     "street": "E Coast Rd",
     "lat": 1.3086179999999998,
     "lng": 103.91127089999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.84,
+    "avg_spend": 16.2,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.4,
     "rating_count": 325,
     "michelin": null
@@ -2423,8 +3872,17 @@
     "lat": 1.3062059,
     "lng": 103.9050419,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.39,
+    "avg_spend": 29.1,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": null,
     "rating_count": null,
     "michelin": null
@@ -2438,8 +3896,17 @@
     "lat": 1.3059659,
     "lng": 103.904774,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.08,
+    "avg_spend": 20.38,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 5,
     "rating_count": 1,
     "michelin": null
@@ -2453,8 +3920,17 @@
     "lat": 1.3060196,
     "lng": 103.9047552,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.43,
+    "avg_spend": 16.24,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.2,
     "rating_count": 940,
     "michelin": null
@@ -2468,8 +3944,17 @@
     "lat": 1.3088495,
     "lng": 103.9121401,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.61,
+    "avg_spend": 23.88,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.4,
     "rating_count": 192,
     "michelin": null
@@ -2483,8 +3968,17 @@
     "lat": 1.3065970999999998,
     "lng": 103.90466769999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.48,
+    "avg_spend": 26.92,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.9,
     "rating_count": 102,
     "michelin": null
@@ -2498,8 +3992,17 @@
     "lat": 1.3048334,
     "lng": 103.9047515,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.29,
+    "avg_spend": 18.4,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": null,
     "rating_count": null,
     "michelin": null
@@ -2507,14 +4010,23 @@
   {
     "id": "outlet_168",
     "name": "The Hidden Story - Speakeasy Bar hidden within a steakhouse",
-    "segment": "bars_wine",
+    "segment": "modern_restaurant",
     "sub_type": "bar",
     "street": "E Coast Rd",
     "lat": 1.3058071,
     "lng": 103.90452409999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.13,
+    "avg_spend": 26.64,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.3,
     "rating_count": 95,
     "michelin": null
@@ -2528,8 +4040,17 @@
     "lat": 1.3062167999999998,
     "lng": 103.9045221,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.73,
+    "avg_spend": 20.11,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 5,
     "rating_count": 41,
     "michelin": null
@@ -2543,8 +4064,17 @@
     "lat": 1.3073070999999998,
     "lng": 103.9065579,
     "heritage": false,
+    "established": null,
     "price_tier": "budget",
-    "avg_spend": 6.55,
+    "avg_spend": 5.82,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.7,
     "rating_count": 1031,
     "michelin": null
@@ -2558,8 +4088,17 @@
     "lat": 1.3024822000000003,
     "lng": 103.9072104,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.61,
+    "avg_spend": 15.42,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.5,
     "rating_count": 2,
     "michelin": null
@@ -2573,8 +4112,17 @@
     "lat": 1.3052002,
     "lng": 103.9050645,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.14,
+    "avg_spend": 19.03,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.5,
     "rating_count": 1188,
     "michelin": null
@@ -2588,8 +4136,17 @@
     "lat": 1.3087217,
     "lng": 103.91180609999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.78,
+    "avg_spend": 20.96,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.5,
     "rating_count": 114,
     "michelin": null
@@ -2603,8 +4160,17 @@
     "lat": 1.3052002,
     "lng": 103.9050645,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 23.33,
+    "avg_spend": 25.17,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.6,
     "rating_count": 23,
     "michelin": null
@@ -2618,8 +4184,17 @@
     "lat": 1.3052002,
     "lng": 103.9050645,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.45,
+    "avg_spend": 19.43,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.3,
     "rating_count": 49,
     "michelin": null
@@ -2633,8 +4208,17 @@
     "lat": 1.3052002,
     "lng": 103.9050645,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.3,
+    "avg_spend": 22.7,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.1,
     "rating_count": 69,
     "michelin": null
@@ -2642,14 +4226,23 @@
   {
     "id": "outlet_177",
     "name": "港式烧腊 Delight HK Roasted Style",
-    "segment": "specialty_cafe",
+    "segment": "gourmet_retail",
     "sub_type": "coffee_shop",
     "street": "Marine Parade Central",
     "lat": 1.3020387,
     "lng": 103.908048,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.66,
+    "avg_spend": 18.97,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 5,
     "rating_count": 2,
     "michelin": null
@@ -2657,14 +4250,23 @@
   {
     "id": "outlet_178",
     "name": "和乐美食 Delight Gourmet",
-    "segment": "specialty_cafe",
+    "segment": "gourmet_retail",
     "sub_type": "coffee_shop",
     "street": "Marine Parade Central",
     "lat": 1.3019307999999998,
     "lng": 103.9080571,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.16,
+    "avg_spend": 23.23,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 3.6,
     "rating_count": 50,
     "michelin": null
@@ -2678,8 +4280,17 @@
     "lat": 1.3017741000000003,
     "lng": 103.9079012,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.04,
+    "avg_spend": 20.57,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": null,
     "rating_count": null,
     "michelin": null
@@ -2693,10 +4304,1195 @@
     "lat": 1.3095139999999998,
     "lng": 103.91172549999999,
     "heritage": false,
+    "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.31,
+    "avg_spend": 16.75,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
     "rating": 4.3,
     "rating_count": 8,
+    "michelin": null
+  },
+  {
+    "id": "outlet_181",
+    "name": "MERCI MARCEL EAST COAST",
+    "segment": "modern_restaurant",
+    "sub_type": "french_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3067682,
+    "lng": 103.9058348,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 17.55,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.8,
+    "rating_count": 1688,
+    "michelin": null
+  },
+  {
+    "id": "outlet_182",
+    "name": "The Little Pig",
+    "segment": "casual_dining",
+    "sub_type": "restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3061386,
+    "lng": 103.9049788,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 24.16,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.7,
+    "rating_count": 192,
+    "michelin": null
+  },
+  {
+    "id": "outlet_183",
+    "name": "Sushi Zanmai i12 Katong",
+    "segment": "modern_restaurant",
+    "sub_type": "japanese_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3053661,
+    "lng": 103.9052002,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 27.32,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.6,
+    "rating_count": 331,
+    "michelin": null
+  },
+  {
+    "id": "outlet_184",
+    "name": "Yang Guo Fu Mala Tang @Katong i12 杨国福麻辣烫",
+    "segment": "casual_dining",
+    "sub_type": "chinese_restaurant",
+    "street": "East Coast Rd i12",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 28.47,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.4,
+    "rating_count": 43,
+    "michelin": null
+  },
+  {
+    "id": "outlet_185",
+    "name": "So Good Char Chan Tang",
+    "segment": "casual_dining",
+    "sub_type": "chinese_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3050182,
+    "lng": 103.9054493,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 29.54,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 3.8,
+    "rating_count": 344,
+    "michelin": null
+  },
+  {
+    "id": "outlet_186",
+    "name": "XI TANG HK CAFE 囍糖",
+    "segment": "specialty_cafe",
+    "sub_type": "chinese_restaurant",
+    "street": "East Coast Road",
+    "lat": 1.3055451,
+    "lng": 103.9048036,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 28.56,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.7,
+    "rating_count": 427,
+    "michelin": null
+  },
+  {
+    "id": "outlet_187",
+    "name": "Khao Hom By Rung Mama (Katong)",
+    "segment": "modern_restaurant",
+    "sub_type": "thai_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3048760000000001,
+    "lng": 103.9045879,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 28.56,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.7,
+    "rating_count": 1811,
+    "michelin": null
+  },
+  {
+    "id": "outlet_188",
+    "name": "Little Farms Bistro, Katong Point (Restaurant)",
+    "segment": "modern_restaurant",
+    "sub_type": "restaurant",
+    "street": "Joo Chiat Rd",
+    "lat": 1.3069216,
+    "lng": 103.9045661,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 22.83,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.6,
+    "rating_count": 1319,
+    "michelin": null
+  },
+  {
+    "id": "outlet_189",
+    "name": "Yum Yum Thai(i12 katong)",
+    "segment": "modern_restaurant",
+    "sub_type": "thai_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 27.69,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.3,
+    "rating_count": 157,
+    "michelin": null
+  },
+  {
+    "id": "outlet_190",
+    "name": "Nyonyas & Gentlemen Restaurant",
+    "segment": "heritage_peranakan",
+    "sub_type": "restaurant",
+    "street": "Marine Parade Rd",
+    "lat": 1.3037177,
+    "lng": 103.9029408,
+    "heritage": true,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 25.16,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.7,
+    "rating_count": 593,
+    "michelin": null
+  },
+  {
+    "id": "outlet_191",
+    "name": "Little Farms Market, Katong Point (Grocery store)",
+    "segment": "gourmet_retail",
+    "sub_type": "grocery_store",
+    "street": "Joo Chiat Rd",
+    "lat": 1.3069216,
+    "lng": 103.9045661,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 18.23,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.6,
+    "rating_count": 869,
+    "michelin": null
+  },
+  {
+    "id": "outlet_192",
+    "name": "Casa Cicheti (Joo Chiat)",
+    "segment": "modern_restaurant",
+    "sub_type": "italian_restaurant",
+    "street": "Tembeling Rd",
+    "lat": 1.3108925,
+    "lng": 103.9023799,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 27.06,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.1,
+    "rating_count": 16,
+    "michelin": null
+  },
+  {
+    "id": "outlet_193",
+    "name": "The Velvet Cut",
+    "segment": "modern_restaurant",
+    "sub_type": "restaurant",
+    "street": "Joo Chiat Rd",
+    "lat": 1.3150011,
+    "lng": 103.89858609999999,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 25.38,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.6,
+    "rating_count": 207,
+    "michelin": null
+  },
+  {
+    "id": "outlet_194",
+    "name": "Smokey's BBQ Joo Chiat",
+    "segment": "modern_restaurant",
+    "sub_type": "restaurant",
+    "street": "Joo Chiat Pl",
+    "lat": 1.3136559,
+    "lng": 103.9015783,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 16.08,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.1,
+    "rating_count": 819,
+    "michelin": null
+  },
+  {
+    "id": "outlet_195",
+    "name": "Birds of Paradise Gelato Boutique – Katong (East Coast)",
+    "segment": "specialty_cafe",
+    "sub_type": "ice_cream_shop",
+    "street": "E Coast Rd",
+    "lat": 1.3052488,
+    "lng": 103.9035674,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 24.33,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.5,
+    "rating_count": 1884,
+    "michelin": null
+  },
+  {
+    "id": "outlet_196",
+    "name": "Guan Hoe Soon Restaurant",
+    "segment": "heritage_peranakan",
+    "sub_type": "restaurant",
+    "street": "Joo Chiat Rd",
+    "lat": 1.312223,
+    "lng": 103.9002546,
+    "heritage": true,
+    "established": 1953,
+    "price_tier": "mid",
+    "avg_spend": 20.18,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 3.9,
+    "rating_count": 549,
+    "michelin": "bib_gourmand"
+  },
+  {
+    "id": "outlet_197",
+    "name": "Kim Choo Kueh Chang",
+    "segment": "heritage_peranakan",
+    "sub_type": "confectionery",
+    "street": "Joo Chiat Pl",
+    "lat": 1.3134772000000001,
+    "lng": 103.901747,
+    "heritage": true,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 22.18,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.1,
+    "rating_count": 851,
+    "michelin": null
+  },
+  {
+    "id": "outlet_198",
+    "name": "Kim Choo Kueh Chang (Katong)",
+    "segment": "heritage_peranakan",
+    "sub_type": "confectionery",
+    "street": "E Coast Rd",
+    "lat": 1.305839,
+    "lng": 103.9044078,
+    "heritage": true,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 19.69,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4,
+    "rating_count": 231,
+    "michelin": null
+  },
+  {
+    "id": "outlet_199",
+    "name": "Mr & Mrs Mohgan Super Crispy Roti Prata",
+    "segment": "heritage_hawker",
+    "sub_type": "restaurant",
+    "street": "Joo Chiat Rd",
+    "lat": 1.3097383,
+    "lng": 103.90207799999999,
+    "heritage": true,
+    "established": null,
+    "price_tier": "budget",
+    "avg_spend": 6.78,
+    "peak_hours": [
+      "07:00-09:00",
+      "11:30-13:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.3,
+    "rating_count": 1628,
+    "michelin": null
+  },
+  {
+    "id": "outlet_200",
+    "name": "Sin Heng Claypot Bak Koot Teh",
+    "segment": "heritage_hawker",
+    "sub_type": "restaurant",
+    "street": "Joo Chiat Rd",
+    "lat": 1.3070632,
+    "lng": 103.9043627,
+    "heritage": true,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 27.93,
+    "peak_hours": [
+      "07:00-09:00",
+      "11:30-13:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4,
+    "rating_count": 1435,
+    "michelin": null
+  },
+  {
+    "id": "outlet_201",
+    "name": "Kway Guan Huat Joochiat Popiah",
+    "segment": "heritage_peranakan",
+    "sub_type": "meal_takeaway",
+    "street": "Joo Chiat Rd",
+    "lat": 1.3140549,
+    "lng": 103.8992913,
+    "heritage": true,
+    "established": 1938,
+    "price_tier": "mid",
+    "avg_spend": 25.56,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 3.8,
+    "rating_count": 286,
+    "michelin": null
+  },
+  {
+    "id": "outlet_202",
+    "name": "Ayam Penyet President - i12 Katong",
+    "segment": "casual_dining",
+    "sub_type": "indonesian_restaurant",
+    "street": "E Coast Rd i12",
+    "lat": 1.3053668999999999,
+    "lng": 103.90511359999999,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 22.57,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 3.9,
+    "rating_count": 92,
+    "michelin": null
+  },
+  {
+    "id": "outlet_203",
+    "name": "Bistro Bytes",
+    "segment": "modern_restaurant",
+    "sub_type": "food_court",
+    "street": "E Coast Rd",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 15.13,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 2.4,
+    "rating_count": 58,
+    "michelin": null
+  },
+  {
+    "id": "outlet_204",
+    "name": "Coucou Hotpot‧Brew Tea @i12 Katong",
+    "segment": "specialty_cafe",
+    "sub_type": "hot_pot_restaurant",
+    "street": "Singapore",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 18.84,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.9,
+    "rating_count": 4206,
+    "michelin": null
+  },
+  {
+    "id": "outlet_205",
+    "name": "Crystal Jade La Mian Xiao Long Bao",
+    "segment": "casual_dining",
+    "sub_type": "chinese_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 28.27,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 3.7,
+    "rating_count": 152,
+    "michelin": null
+  },
+  {
+    "id": "outlet_206",
+    "name": "Gelatissimo",
+    "segment": "bakery_dessert",
+    "sub_type": "ice_cream_shop",
+    "street": "E Coast Rd",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 29.42,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.4,
+    "rating_count": 114,
+    "michelin": null
+  },
+  {
+    "id": "outlet_207",
+    "name": "Genki Sushi i12 Katong",
+    "segment": "modern_restaurant",
+    "sub_type": "sushi_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3051591999999999,
+    "lng": 103.9050673,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 21.29,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.7,
+    "rating_count": 2290,
+    "michelin": null
+  },
+  {
+    "id": "outlet_208",
+    "name": "GOPIZZA (i12 Katong)",
+    "segment": "casual_dining",
+    "sub_type": "fast_food_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 28.6,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.4,
+    "rating_count": 119,
+    "michelin": null
+  },
+  {
+    "id": "outlet_209",
+    "name": "IPPUDO @I12 Katong",
+    "segment": "casual_dining",
+    "sub_type": "ramen_restaurant",
+    "street": "Katong",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 22.82,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4,
+    "rating_count": 201,
+    "michelin": null
+  },
+  {
+    "id": "outlet_210",
+    "name": "Kei Kaisendon i12 Katong",
+    "segment": "modern_restaurant",
+    "sub_type": "japanese_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 29.36,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 3.9,
+    "rating_count": 107,
+    "michelin": null
+  },
+  {
+    "id": "outlet_211",
+    "name": "SG Hawker",
+    "segment": "hawker_centre",
+    "sub_type": "food_court",
+    "street": "Katong",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 29.09,
+    "peak_hours": [
+      "07:00-09:00",
+      "11:30-13:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 3,
+    "rating_count": 351,
+    "michelin": null
+  },
+  {
+    "id": "outlet_212",
+    "name": "Ninja Mama",
+    "segment": "casual_dining",
+    "sub_type": "fast_food_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 21.61,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.3,
+    "rating_count": 16,
+    "michelin": null
+  },
+  {
+    "id": "outlet_213",
+    "name": "Pizzamaru Express (i12 Katong)",
+    "segment": "casual_dining",
+    "sub_type": "restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 19.75,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 3.7,
+    "rating_count": 12,
+    "michelin": null
+  },
+  {
+    "id": "outlet_214",
+    "name": "Privé Katong",
+    "segment": "casual_dining",
+    "sub_type": "restaurant",
+    "street": "East Coast Road #01-28",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 17.42,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 3.4,
+    "rating_count": 161,
+    "michelin": null
+  },
+  {
+    "id": "outlet_215",
+    "name": "PS.Cafe Katong",
+    "segment": "modern_restaurant",
+    "sub_type": "restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3055583000000002,
+    "lng": 103.90503299999999,
+    "heritage": false,
+    "established": null,
+    "price_tier": "premium",
+    "avg_spend": 62.83,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.3,
+    "rating_count": 808,
+    "michelin": null
+  },
+  {
+    "id": "outlet_216",
+    "name": "Tim Ho Wan",
+    "segment": "casual_dining",
+    "sub_type": "dim_sum_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3055398999999999,
+    "lng": 103.9050712,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 21.06,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4,
+    "rating_count": 342,
+    "michelin": null
+  },
+  {
+    "id": "outlet_217",
+    "name": "Typhoon Cafe (i12 Katong Mall)",
+    "segment": "specialty_cafe",
+    "sub_type": "cafe",
+    "street": "E Coast Rd",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 27.27,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.5,
+    "rating_count": 724,
+    "michelin": null
+  },
+  {
+    "id": "outlet_218",
+    "name": "Wine Connection Bistro (i12 Katong)",
+    "segment": "modern_restaurant",
+    "sub_type": "bistro",
+    "street": "East Coast Road 01-10",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 27.78,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4,
+    "rating_count": 462,
+    "michelin": null
+  },
+  {
+    "id": "outlet_219",
+    "name": "Maki-San (Katong Mall)",
+    "segment": "casual_dining",
+    "sub_type": "sushi_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 28.07,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.6,
+    "rating_count": 189,
+    "michelin": null
+  },
+  {
+    "id": "outlet_220",
+    "name": "Kind Kones i12 Katong",
+    "segment": "bakery_dessert",
+    "sub_type": "ice_cream_shop",
+    "street": "E Coast Rd",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 25.46,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.3,
+    "rating_count": 98,
+    "michelin": null
+  },
+  {
+    "id": "outlet_221",
+    "name": "NBCB i12 Katong",
+    "segment": "casual_dining",
+    "sub_type": "fast_food_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.305092,
+    "lng": 103.9049975,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 17.34,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 3.8,
+    "rating_count": 217,
+    "michelin": null
+  },
+  {
+    "id": "outlet_222",
+    "name": "RollGaadi",
+    "segment": "casual_dining",
+    "sub_type": "indian_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 17.08,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.5,
+    "rating_count": 284,
+    "michelin": null
+  },
+  {
+    "id": "outlet_223",
+    "name": "Pita Tree Kebabs - Katong",
+    "segment": "casual_dining",
+    "sub_type": "kebab_shop",
+    "street": "E Coast Rd",
+    "lat": 1.3055451,
+    "lng": 103.9048036,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 29.23,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.5,
+    "rating_count": 104,
+    "michelin": null
+  },
+  {
+    "id": "outlet_224",
+    "name": "Churros Republic",
+    "segment": "bars_wine",
+    "sub_type": "dessert_shop",
+    "street": "E Coast Rd",
+    "lat": 1.3053106,
+    "lng": 103.90487759999999,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 22.31,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 3.8,
+    "rating_count": 4,
+    "michelin": null
+  },
+  {
+    "id": "outlet_225",
+    "name": "Huggs Coffee",
+    "segment": "specialty_cafe",
+    "sub_type": "cafe",
+    "street": "East Coast Road",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 17.48,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 3.7,
+    "rating_count": 150,
+    "michelin": null
+  },
+  {
+    "id": "outlet_226",
+    "name": "Signature KOI @ I12 Katong",
+    "segment": "bakery_dessert",
+    "sub_type": "bakery",
+    "street": "E Coast Rd",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 28.64,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 2.9,
+    "rating_count": 39,
+    "michelin": null
+  },
+  {
+    "id": "outlet_227",
+    "name": "My Tampopo",
+    "segment": "casual_dining",
+    "sub_type": "bistro",
+    "street": "East Coast Road",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 25.87,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 3.4,
+    "rating_count": 12,
+    "michelin": null
+  },
+  {
+    "id": "outlet_228",
+    "name": "Boost Juice @ i12 Katong",
+    "segment": "casual_dining",
+    "sub_type": "juice_shop",
+    "street": "E Coast Rd",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 21.76,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 2.5,
+    "rating_count": 41,
+    "michelin": null
+  },
+  {
+    "id": "outlet_229",
+    "name": "iVegan i12 Katong",
+    "segment": "casual_dining",
+    "sub_type": "vegan_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 26.78,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.8,
+    "rating_count": 837,
     "michelin": null
   }
 ]
