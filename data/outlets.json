@@ -10,7 +10,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.25,
+    "avg_spend": 21.17,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -34,7 +34,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.71,
+    "avg_spend": 28.8,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -58,7 +58,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 19,
+    "avg_spend": 23.31,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -82,7 +82,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.29,
+    "avg_spend": 29.46,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -106,7 +106,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.03,
+    "avg_spend": 17.09,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -130,7 +130,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.73,
+    "avg_spend": 23.18,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -154,7 +154,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.98,
+    "avg_spend": 27.21,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -178,7 +178,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.21,
+    "avg_spend": 20.82,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -202,7 +202,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 23.72,
+    "avg_spend": 27.42,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -226,7 +226,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.59,
+    "avg_spend": 20.44,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -250,7 +250,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.46,
+    "avg_spend": 17.78,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -274,7 +274,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.85,
+    "avg_spend": 22.94,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -298,7 +298,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.17,
+    "avg_spend": 19.2,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -322,7 +322,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.59,
+    "avg_spend": 17.29,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -346,7 +346,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.17,
+    "avg_spend": 16.85,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -370,7 +370,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.42,
+    "avg_spend": 21.47,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -394,7 +394,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "budget",
-    "avg_spend": 7.89,
+    "avg_spend": 8.69,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -418,7 +418,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "budget",
-    "avg_spend": 9.94,
+    "avg_spend": 8.32,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -442,7 +442,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "budget",
-    "avg_spend": 5.95,
+    "avg_spend": 9.52,
     "peak_hours": [
       "07:00-09:00",
       "11:30-13:30"
@@ -466,7 +466,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.04,
+    "avg_spend": 21.86,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -490,7 +490,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.64,
+    "avg_spend": 24.58,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -514,7 +514,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "budget",
-    "avg_spend": 6.89,
+    "avg_spend": 5.27,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -538,7 +538,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.96,
+    "avg_spend": 22.07,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -562,7 +562,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.54,
+    "avg_spend": 17.57,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -586,7 +586,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.77,
+    "avg_spend": 15.07,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -610,7 +610,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.18,
+    "avg_spend": 18.09,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -634,7 +634,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.21,
+    "avg_spend": 29.39,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -658,7 +658,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 23.44,
+    "avg_spend": 22.56,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -682,7 +682,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.12,
+    "avg_spend": 24.44,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -706,7 +706,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.15,
+    "avg_spend": 19.16,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -730,7 +730,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.19,
+    "avg_spend": 22.55,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -754,7 +754,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.56,
+    "avg_spend": 22.13,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -778,7 +778,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.22,
+    "avg_spend": 16.71,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -802,7 +802,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.23,
+    "avg_spend": 15.53,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -826,7 +826,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.12,
+    "avg_spend": 26.51,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -850,7 +850,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.63,
+    "avg_spend": 23.9,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -874,7 +874,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.23,
+    "avg_spend": 17.85,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -898,7 +898,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.41,
+    "avg_spend": 24.84,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -922,7 +922,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.13,
+    "avg_spend": 21.85,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -946,7 +946,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 23.6,
+    "avg_spend": 19.11,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -970,7 +970,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.88,
+    "avg_spend": 22.65,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -994,7 +994,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.95,
+    "avg_spend": 17.4,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -1018,7 +1018,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.43,
+    "avg_spend": 29.97,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -1042,7 +1042,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.44,
+    "avg_spend": 20.92,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -1066,7 +1066,7 @@
     "heritage": true,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.55,
+    "avg_spend": 17.33,
     "peak_hours": [
       "07:00-09:00",
       "11:30-13:30"
@@ -1090,7 +1090,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 15.21,
+    "avg_spend": 20.26,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -1114,7 +1114,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.9,
+    "avg_spend": 20.57,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -1138,7 +1138,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.32,
+    "avg_spend": 21.04,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -1162,7 +1162,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.02,
+    "avg_spend": 26.2,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -1186,7 +1186,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.33,
+    "avg_spend": 15.95,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -1210,7 +1210,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.94,
+    "avg_spend": 19.4,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -1234,7 +1234,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 15.3,
+    "avg_spend": 25.02,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -1258,7 +1258,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.08,
+    "avg_spend": 23.69,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -1282,7 +1282,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.21,
+    "avg_spend": 27.17,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -1306,7 +1306,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 15.32,
+    "avg_spend": 24.2,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -1330,7 +1330,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.52,
+    "avg_spend": 21.47,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -1354,7 +1354,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 15.68,
+    "avg_spend": 18.04,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -1378,7 +1378,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.8,
+    "avg_spend": 20.98,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -1402,7 +1402,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "premium",
-    "avg_spend": 38.07,
+    "avg_spend": 63.18,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -1426,7 +1426,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.45,
+    "avg_spend": 16.13,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -1450,7 +1450,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.12,
+    "avg_spend": 15.02,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -1474,7 +1474,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.61,
+    "avg_spend": 26.9,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -1498,7 +1498,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.72,
+    "avg_spend": 26.57,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -1522,7 +1522,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.31,
+    "avg_spend": 15.05,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -1546,7 +1546,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.41,
+    "avg_spend": 20.51,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -1570,7 +1570,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.69,
+    "avg_spend": 21.51,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -1594,7 +1594,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.91,
+    "avg_spend": 24.14,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -1618,7 +1618,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.02,
+    "avg_spend": 15.54,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -1642,7 +1642,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "budget",
-    "avg_spend": 9.61,
+    "avg_spend": 10.93,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -1666,7 +1666,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.91,
+    "avg_spend": 22.92,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -1690,7 +1690,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.07,
+    "avg_spend": 15.19,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -1714,7 +1714,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.62,
+    "avg_spend": 15.36,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -1738,7 +1738,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.46,
+    "avg_spend": 28.38,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -1762,7 +1762,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.73,
+    "avg_spend": 18.1,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -1786,7 +1786,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "budget",
-    "avg_spend": 7.28,
+    "avg_spend": 8.98,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -1810,7 +1810,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 15.61,
+    "avg_spend": 18.81,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -1834,7 +1834,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.71,
+    "avg_spend": 22.52,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -1858,7 +1858,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.84,
+    "avg_spend": 18.47,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -1882,7 +1882,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.86,
+    "avg_spend": 18.75,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -1906,7 +1906,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.88,
+    "avg_spend": 21.26,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -1930,7 +1930,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.12,
+    "avg_spend": 29.78,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -1954,7 +1954,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.28,
+    "avg_spend": 28.33,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -1978,7 +1978,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.01,
+    "avg_spend": 28.62,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2002,7 +2002,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.67,
+    "avg_spend": 20.9,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -2026,7 +2026,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.55,
+    "avg_spend": 24.88,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -2050,7 +2050,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.93,
+    "avg_spend": 19.3,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2074,7 +2074,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.28,
+    "avg_spend": 28.49,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2098,7 +2098,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.58,
+    "avg_spend": 23.33,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2122,7 +2122,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.52,
+    "avg_spend": 27.64,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2146,7 +2146,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.59,
+    "avg_spend": 24.72,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2170,7 +2170,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.66,
+    "avg_spend": 28.26,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -2194,7 +2194,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.74,
+    "avg_spend": 21.94,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2218,7 +2218,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.96,
+    "avg_spend": 17.67,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2242,7 +2242,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.02,
+    "avg_spend": 27.79,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2266,7 +2266,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.78,
+    "avg_spend": 18.23,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2290,7 +2290,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.7,
+    "avg_spend": 27.93,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2314,7 +2314,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.69,
+    "avg_spend": 18.38,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2338,7 +2338,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.33,
+    "avg_spend": 25.66,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2362,7 +2362,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.37,
+    "avg_spend": 29.34,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -2386,7 +2386,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 15.05,
+    "avg_spend": 26.71,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -2410,7 +2410,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.56,
+    "avg_spend": 25.86,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -2434,7 +2434,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "budget",
-    "avg_spend": 11.04,
+    "avg_spend": 8.49,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -2458,7 +2458,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.68,
+    "avg_spend": 15.26,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -2482,7 +2482,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.23,
+    "avg_spend": 16.25,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -2506,7 +2506,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.59,
+    "avg_spend": 24.02,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -2530,7 +2530,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 23.89,
+    "avg_spend": 18.03,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -2554,7 +2554,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.69,
+    "avg_spend": 27.59,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -2578,7 +2578,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.53,
+    "avg_spend": 27.36,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -2602,7 +2602,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.8,
+    "avg_spend": 19.24,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -2626,7 +2626,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.92,
+    "avg_spend": 24.5,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2650,7 +2650,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.29,
+    "avg_spend": 27.75,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2674,7 +2674,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.69,
+    "avg_spend": 21.67,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -2698,7 +2698,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.08,
+    "avg_spend": 29.41,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2722,7 +2722,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.99,
+    "avg_spend": 23.56,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2746,7 +2746,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "budget",
-    "avg_spend": 5.21,
+    "avg_spend": 8.57,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -2770,7 +2770,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.49,
+    "avg_spend": 29.92,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2794,7 +2794,7 @@
     "heritage": true,
     "established": 1998,
     "price_tier": "mid",
-    "avg_spend": 20.18,
+    "avg_spend": 25.34,
     "peak_hours": [
       "07:00-09:00",
       "11:30-13:30"
@@ -2818,7 +2818,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.76,
+    "avg_spend": 21.12,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2842,7 +2842,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.44,
+    "avg_spend": 23.66,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2866,7 +2866,7 @@
     "heritage": true,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.99,
+    "avg_spend": 16.65,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2890,7 +2890,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 15.91,
+    "avg_spend": 27.18,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2914,7 +2914,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.07,
+    "avg_spend": 15.7,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2938,7 +2938,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.85,
+    "avg_spend": 22.31,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2962,7 +2962,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.03,
+    "avg_spend": 24.93,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -2986,7 +2986,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.07,
+    "avg_spend": 28.47,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -3010,7 +3010,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.78,
+    "avg_spend": 21.56,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -3034,7 +3034,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.25,
+    "avg_spend": 23.59,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3058,7 +3058,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.01,
+    "avg_spend": 19.36,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3082,7 +3082,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.41,
+    "avg_spend": 26.32,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3106,7 +3106,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.73,
+    "avg_spend": 17.41,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3130,7 +3130,7 @@
     "heritage": true,
     "established": 1925,
     "price_tier": "budget",
-    "avg_spend": 11.34,
+    "avg_spend": 9.83,
     "peak_hours": [
       "07:00-09:00",
       "11:30-13:30"
@@ -3154,7 +3154,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.4,
+    "avg_spend": 28.34,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3178,7 +3178,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.02,
+    "avg_spend": 23.48,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3202,7 +3202,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.3,
+    "avg_spend": 19.51,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3226,7 +3226,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.91,
+    "avg_spend": 29.91,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3250,7 +3250,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.68,
+    "avg_spend": 16.08,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3274,7 +3274,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.93,
+    "avg_spend": 24.68,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -3298,7 +3298,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.95,
+    "avg_spend": 21.88,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -3322,7 +3322,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.26,
+    "avg_spend": 27.63,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3346,7 +3346,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.75,
+    "avg_spend": 28.24,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3370,7 +3370,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.26,
+    "avg_spend": 20.44,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3394,7 +3394,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.79,
+    "avg_spend": 23.86,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3418,7 +3418,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.87,
+    "avg_spend": 26,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3442,7 +3442,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.09,
+    "avg_spend": 18.14,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3466,7 +3466,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.14,
+    "avg_spend": 23.93,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3490,7 +3490,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.41,
+    "avg_spend": 25.17,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3514,7 +3514,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.98,
+    "avg_spend": 23.85,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3538,7 +3538,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.84,
+    "avg_spend": 18.97,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3562,7 +3562,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.51,
+    "avg_spend": 17.72,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3586,7 +3586,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 15.25,
+    "avg_spend": 28.82,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3610,7 +3610,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.33,
+    "avg_spend": 23.63,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3634,7 +3634,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.15,
+    "avg_spend": 28.04,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3658,7 +3658,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.67,
+    "avg_spend": 24.54,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3682,7 +3682,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.39,
+    "avg_spend": 24.31,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3706,7 +3706,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.18,
+    "avg_spend": 24.86,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3730,7 +3730,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 23.66,
+    "avg_spend": 16.72,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3754,7 +3754,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.86,
+    "avg_spend": 15.17,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3778,7 +3778,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.42,
+    "avg_spend": 16.91,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3802,7 +3802,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.39,
+    "avg_spend": 26.02,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -3826,7 +3826,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.98,
+    "avg_spend": 22.79,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -3850,7 +3850,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.2,
+    "avg_spend": 18.78,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -3874,7 +3874,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.1,
+    "avg_spend": 23.38,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -3898,7 +3898,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.38,
+    "avg_spend": 16.91,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -3922,7 +3922,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.24,
+    "avg_spend": 22.67,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -3946,7 +3946,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 23.88,
+    "avg_spend": 18.3,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -3970,7 +3970,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.92,
+    "avg_spend": 20.08,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -3994,7 +3994,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.4,
+    "avg_spend": 21.91,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -4018,7 +4018,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.64,
+    "avg_spend": 22.97,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4042,7 +4042,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.11,
+    "avg_spend": 26.91,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -4066,7 +4066,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "budget",
-    "avg_spend": 5.82,
+    "avg_spend": 5.33,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4090,7 +4090,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 15.42,
+    "avg_spend": 29.27,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4114,7 +4114,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.03,
+    "avg_spend": 17.99,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4138,7 +4138,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.96,
+    "avg_spend": 24.18,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -4162,7 +4162,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.17,
+    "avg_spend": 18.34,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -4186,7 +4186,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.43,
+    "avg_spend": 17.67,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -4210,7 +4210,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.7,
+    "avg_spend": 18.02,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -4234,7 +4234,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.97,
+    "avg_spend": 21.23,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4258,7 +4258,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 23.23,
+    "avg_spend": 23.28,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4282,7 +4282,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 20.57,
+    "avg_spend": 29.05,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -4306,7 +4306,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.75,
+    "avg_spend": 22.15,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -4330,7 +4330,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.55,
+    "avg_spend": 18.44,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4354,7 +4354,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.16,
+    "avg_spend": 19.98,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4378,7 +4378,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.32,
+    "avg_spend": 25.65,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4402,7 +4402,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.47,
+    "avg_spend": 18.52,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4426,7 +4426,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.54,
+    "avg_spend": 16.86,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4450,7 +4450,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.56,
+    "avg_spend": 26.06,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -4474,7 +4474,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.56,
+    "avg_spend": 25.44,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4498,7 +4498,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.83,
+    "avg_spend": 22.99,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4522,7 +4522,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.69,
+    "avg_spend": 15.35,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4546,7 +4546,7 @@
     "heritage": true,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.16,
+    "avg_spend": 27.15,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4570,7 +4570,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.23,
+    "avg_spend": 18.21,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4594,7 +4594,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.06,
+    "avg_spend": 19.48,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4618,7 +4618,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.38,
+    "avg_spend": 20.41,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4642,7 +4642,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 16.08,
+    "avg_spend": 21.05,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4666,7 +4666,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 24.33,
+    "avg_spend": 27.45,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -4690,7 +4690,7 @@
     "heritage": true,
     "established": 1953,
     "price_tier": "mid",
-    "avg_spend": 20.18,
+    "avg_spend": 28.84,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4714,7 +4714,7 @@
     "heritage": true,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.18,
+    "avg_spend": 15.14,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4738,7 +4738,7 @@
     "heritage": true,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.69,
+    "avg_spend": 18.08,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4762,7 +4762,7 @@
     "heritage": true,
     "established": null,
     "price_tier": "budget",
-    "avg_spend": 6.78,
+    "avg_spend": 5.55,
     "peak_hours": [
       "07:00-09:00",
       "11:30-13:30"
@@ -4786,7 +4786,7 @@
     "heritage": true,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.93,
+    "avg_spend": 25.39,
     "peak_hours": [
       "07:00-09:00",
       "11:30-13:30"
@@ -4810,7 +4810,7 @@
     "heritage": true,
     "established": 1938,
     "price_tier": "mid",
-    "avg_spend": 25.56,
+    "avg_spend": 29.94,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4834,7 +4834,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.57,
+    "avg_spend": 26.04,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4858,7 +4858,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 15.13,
+    "avg_spend": 21.1,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4882,7 +4882,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 18.84,
+    "avg_spend": 18.99,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -4906,7 +4906,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.27,
+    "avg_spend": 28.54,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4930,7 +4930,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.42,
+    "avg_spend": 27.1,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -4954,7 +4954,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.29,
+    "avg_spend": 15.87,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -4978,7 +4978,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.6,
+    "avg_spend": 20.34,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -5002,7 +5002,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.82,
+    "avg_spend": 25.6,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -5026,7 +5026,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.36,
+    "avg_spend": 25.84,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -5050,7 +5050,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.09,
+    "avg_spend": 20.92,
     "peak_hours": [
       "07:00-09:00",
       "11:30-13:30"
@@ -5074,7 +5074,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.61,
+    "avg_spend": 17.48,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -5098,7 +5098,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 19.75,
+    "avg_spend": 29.86,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -5122,7 +5122,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.42,
+    "avg_spend": 15.81,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -5146,7 +5146,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "premium",
-    "avg_spend": 62.83,
+    "avg_spend": 45.27,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -5170,7 +5170,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.06,
+    "avg_spend": 29.45,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -5194,7 +5194,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.27,
+    "avg_spend": 29.74,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -5218,7 +5218,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 27.78,
+    "avg_spend": 17.13,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -5242,7 +5242,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.07,
+    "avg_spend": 16.06,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -5266,7 +5266,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.46,
+    "avg_spend": 20.19,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -5290,7 +5290,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.34,
+    "avg_spend": 27.56,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -5314,7 +5314,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.08,
+    "avg_spend": 15.06,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -5338,7 +5338,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 29.23,
+    "avg_spend": 29.7,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -5362,7 +5362,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 22.31,
+    "avg_spend": 23.19,
     "peak_hours": [
       "18:00-20:00",
       "21:00-23:00"
@@ -5386,7 +5386,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 17.48,
+    "avg_spend": 15.84,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -5410,7 +5410,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 28.64,
+    "avg_spend": 18.06,
     "peak_hours": [
       "08:00-10:30",
       "12:00-14:00"
@@ -5434,7 +5434,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 25.87,
+    "avg_spend": 16.37,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -5458,7 +5458,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 21.76,
+    "avg_spend": 17.63,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -5482,7 +5482,7 @@
     "heritage": false,
     "established": null,
     "price_tier": "mid",
-    "avg_spend": 26.78,
+    "avg_spend": 20.6,
     "peak_hours": [
       "11:30-13:30",
       "17:30-19:30"
@@ -5493,6 +5493,2022 @@
     ],
     "rating": 4.8,
     "rating_count": 837,
+    "michelin": null
+  },
+  {
+    "id": "outlet_230",
+    "name": "PizzaExpress (i12 Katong)",
+    "segment": "modern_restaurant",
+    "sub_type": "italian_restaurant",
+    "street": "East Coast Road",
+    "lat": 1.3046654099668222,
+    "lng": 103.90474553525483,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 17.66,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": null,
+    "rating_count": null,
+    "michelin": null
+  },
+  {
+    "id": "outlet_231",
+    "name": "Malaysia Boleh! (i12 Katong)",
+    "segment": "casual_dining",
+    "sub_type": "food_court",
+    "street": "East Coast Road",
+    "lat": 1.3046844272499794,
+    "lng": 103.90443835156925,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 26.92,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": null,
+    "rating_count": null,
+    "michelin": null
+  },
+  {
+    "id": "outlet_232",
+    "name": "Toriten (i12 Katong)",
+    "segment": "modern_restaurant",
+    "sub_type": "japanese_restaurant",
+    "street": "East Coast Road",
+    "lat": 1.304697997906842,
+    "lng": 103.90477053692547,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 19.26,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": null,
+    "rating_count": null,
+    "michelin": null
+  },
+  {
+    "id": "outlet_233",
+    "name": "Gong Cha (i12 Katong)",
+    "segment": "specialty_cafe",
+    "sub_type": "cafe",
+    "street": "East Coast Road",
+    "lat": 1.3050361999878142,
+    "lng": 103.9043037350879,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 29.01,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": null,
+    "rating_count": null,
+    "michelin": null
+  },
+  {
+    "id": "outlet_234",
+    "name": "Tea Pulse (i12 Katong)",
+    "segment": "specialty_cafe",
+    "sub_type": "cafe",
+    "street": "East Coast Road",
+    "lat": 1.305126703644613,
+    "lng": 103.90417383505034,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 18.2,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": null,
+    "rating_count": null,
+    "michelin": null
+  },
+  {
+    "id": "outlet_235",
+    "name": "Sweet Huts (i12 Katong)",
+    "segment": "bakery_dessert",
+    "sub_type": "bakery",
+    "street": "East Coast Road",
+    "lat": 1.3049676988998464,
+    "lng": 103.90439748991625,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 27.03,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": null,
+    "rating_count": null,
+    "michelin": null
+  },
+  {
+    "id": "outlet_236",
+    "name": "Re.juve (i12 Katong)",
+    "segment": "specialty_cafe",
+    "sub_type": "cafe",
+    "street": "East Coast Road",
+    "lat": 1.304622981815694,
+    "lng": 103.90403777564335,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 21.16,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": null,
+    "rating_count": null,
+    "michelin": null
+  },
+  {
+    "id": "outlet_237",
+    "name": "Hey! I am Yogost (i12 Katong)",
+    "segment": "bakery_dessert",
+    "sub_type": "ice_cream_shop",
+    "street": "East Coast Road",
+    "lat": 1.3048440363188671,
+    "lng": 103.90462149216118,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 17.28,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": null,
+    "rating_count": null,
+    "michelin": null
+  },
+  {
+    "id": "outlet_238",
+    "name": "001 Cafe (i12 Katong)",
+    "segment": "specialty_cafe",
+    "sub_type": "cafe",
+    "street": "East Coast Road",
+    "lat": 1.3047477185158796,
+    "lng": 103.90469032462435,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 17.22,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": null,
+    "rating_count": null,
+    "michelin": null
+  },
+  {
+    "id": "outlet_239",
+    "name": "A-One Signature (i12 Katong)",
+    "segment": "casual_dining",
+    "sub_type": "chinese_restaurant",
+    "street": "East Coast Road",
+    "lat": 1.305066146483471,
+    "lng": 103.90434907388928,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 27.85,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": null,
+    "rating_count": null,
+    "michelin": null
+  },
+  {
+    "id": "outlet_240",
+    "name": "Dulcet & Studio (i12 Katong)",
+    "segment": "bakery_dessert",
+    "sub_type": "bakery",
+    "street": "East Coast Road",
+    "lat": 1.305029491467752,
+    "lng": 103.90431754652383,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 24.07,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": null,
+    "rating_count": null,
+    "michelin": null
+  },
+  {
+    "id": "outlet_241",
+    "name": "Ed Florede (i12 Katong)",
+    "segment": "specialty_cafe",
+    "sub_type": "cafe",
+    "street": "East Coast Road",
+    "lat": 1.3045828825795895,
+    "lng": 103.90420219566809,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 26.85,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": null,
+    "rating_count": null,
+    "michelin": null
+  },
+  {
+    "id": "outlet_242",
+    "name": "Green Signature (i12 Katong)",
+    "segment": "casual_dining",
+    "sub_type": "restaurant",
+    "street": "East Coast Road",
+    "lat": 1.3048961938995844,
+    "lng": 103.90453595243319,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 19.29,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": null,
+    "rating_count": null,
+    "michelin": null
+  },
+  {
+    "id": "outlet_243",
+    "name": "KRate (i12 Katong)",
+    "segment": "specialty_cafe",
+    "sub_type": "cafe",
+    "street": "East Coast Road",
+    "lat": 1.3048427466127623,
+    "lng": 103.90402654560145,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 18.37,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": null,
+    "rating_count": null,
+    "michelin": null
+  },
+  {
+    "id": "outlet_244",
+    "name": "Lama Hot Mama (i12 Katong)",
+    "segment": "casual_dining",
+    "sub_type": "restaurant",
+    "street": "East Coast Road",
+    "lat": 1.3047377144015437,
+    "lng": 103.90444293668635,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 26.23,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": null,
+    "rating_count": null,
+    "michelin": null
+  },
+  {
+    "id": "outlet_245",
+    "name": "Ding Wei Fried Master (i12 Katong)",
+    "segment": "casual_dining",
+    "sub_type": "restaurant",
+    "street": "East Coast Road",
+    "lat": 1.304573575385718,
+    "lng": 103.90471383271155,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 16.98,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": null,
+    "rating_count": null,
+    "michelin": null
+  },
+  {
+    "id": "outlet_246",
+    "name": "SG Hawker (i12 Katong)",
+    "segment": "hawker_centre",
+    "sub_type": "food_court",
+    "street": "East Coast Road",
+    "lat": 1.3049456732263724,
+    "lng": 103.90430250645065,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 23.47,
+    "peak_hours": [
+      "07:00-09:00",
+      "11:30-13:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": null,
+    "rating_count": null,
+    "michelin": null
+  },
+  {
+    "id": "outlet_247",
+    "name": "Janice Wong Pure Imagination (i12 Katong)",
+    "segment": "bakery_dessert",
+    "sub_type": "bakery",
+    "street": "East Coast Road",
+    "lat": 1.304529765406191,
+    "lng": 103.9047031782658,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 24.37,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": null,
+    "rating_count": null,
+    "michelin": null
+  },
+  {
+    "id": "outlet_248",
+    "name": "The Pizza Pasta Project (i12 Katong)",
+    "segment": "modern_restaurant",
+    "sub_type": "italian_restaurant",
+    "street": "East Coast Road",
+    "lat": 1.304995638700611,
+    "lng": 103.9043143449884,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 18.66,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": null,
+    "rating_count": null,
+    "michelin": null
+  },
+  {
+    "id": "outlet_249",
+    "name": "Beach Road Prawn Noodle House",
+    "segment": "casual_dining",
+    "sub_type": "restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3085480999999999,
+    "lng": 103.9111591,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 21.72,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.2,
+    "rating_count": 2983,
+    "michelin": null
+  },
+  {
+    "id": "outlet_250",
+    "name": "Choice Cuts Pizza & Records",
+    "segment": "specialty_cafe",
+    "sub_type": "pizza_restaurant",
+    "street": "Joo Chiat Rd",
+    "lat": 1.3065634,
+    "lng": 103.90436869999999,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 28.87,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.2,
+    "rating_count": 518,
+    "michelin": null
+  },
+  {
+    "id": "outlet_251",
+    "name": "Katong Mei Wei Chicken Rice",
+    "segment": "casual_dining",
+    "sub_type": "restaurant",
+    "street": "Mountbatten Rd",
+    "lat": 1.3035662,
+    "lng": 103.9005305,
+    "heritage": false,
+    "established": null,
+    "price_tier": "budget",
+    "avg_spend": 10.85,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.1,
+    "rating_count": 2078,
+    "michelin": null
+  },
+  {
+    "id": "outlet_252",
+    "name": "Bei-Ing Dimsum Club— Chinese Tapas Theory 美樱點心楼",
+    "segment": "casual_dining",
+    "sub_type": "dim_sum_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3087095,
+    "lng": 103.91172549999999,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 19.64,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 3.5,
+    "rating_count": 37,
+    "michelin": null
+  },
+  {
+    "id": "outlet_253",
+    "name": "Emmanuel Peranakan Cuisine",
+    "segment": "heritage_peranakan",
+    "sub_type": "restaurant",
+    "street": "Marine Parade Central",
+    "lat": 1.3021851,
+    "lng": 103.9063308,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 24.64,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 3.8,
+    "rating_count": 62,
+    "michelin": null
+  },
+  {
+    "id": "outlet_254",
+    "name": "June Coffee",
+    "segment": "specialty_cafe",
+    "sub_type": "cafe",
+    "street": "E Coast Rd",
+    "lat": 1.3049789,
+    "lng": 103.90309710000001,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 15.06,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.2,
+    "rating_count": 508,
+    "michelin": null
+  },
+  {
+    "id": "outlet_255",
+    "name": "Nimbus",
+    "segment": "casual_dining",
+    "sub_type": "bistro",
+    "street": "Joo Chiat Rd",
+    "lat": 1.306343,
+    "lng": 103.904736,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 28.6,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.4,
+    "rating_count": 812,
+    "michelin": null
+  },
+  {
+    "id": "outlet_256",
+    "name": "MICRO red house",
+    "segment": "specialty_cafe",
+    "sub_type": "coffee_shop",
+    "street": "E Coast Rd",
+    "lat": 1.3052555,
+    "lng": 103.9036804,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 23.66,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.4,
+    "rating_count": 437,
+    "michelin": null
+  },
+  {
+    "id": "outlet_257",
+    "name": "PRAIRIE by Craftsmen (Joo Chiat)",
+    "segment": "specialty_cafe",
+    "sub_type": "cafe",
+    "street": "Joo Chiat Rd",
+    "lat": 1.3061527,
+    "lng": 103.9045561,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 18.27,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.3,
+    "rating_count": 883,
+    "michelin": null
+  },
+  {
+    "id": "outlet_258",
+    "name": "Jin Yu Man Tang Dessert",
+    "segment": "bakery_dessert",
+    "sub_type": "dessert_shop",
+    "street": "E Coast Rd",
+    "lat": 1.304703,
+    "lng": 103.90411209999999,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 16.3,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.1,
+    "rating_count": 745,
+    "michelin": null
+  },
+  {
+    "id": "outlet_259",
+    "name": "Burrata Joy & Gustavo Lapasta",
+    "segment": "modern_restaurant",
+    "sub_type": "italian_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3034173999999998,
+    "lng": 103.9030387,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 18.49,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.6,
+    "rating_count": 644,
+    "michelin": null
+  },
+  {
+    "id": "outlet_260",
+    "name": "Dai-Ichi Fishmart - Japanese Dining . Izakaya . Bar 大一居酒屋 日本餐",
+    "segment": "modern_restaurant",
+    "sub_type": "japanese_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3046518,
+    "lng": 103.9041615,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 27.18,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.6,
+    "rating_count": 852,
+    "michelin": null
+  },
+  {
+    "id": "outlet_261",
+    "name": "You Kee XO Singapore",
+    "segment": "casual_dining",
+    "sub_type": "restaurant",
+    "street": "Joo Chiat Pl",
+    "lat": 1.3135040999999998,
+    "lng": 103.90080189999999,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 22.06,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.4,
+    "rating_count": 487,
+    "michelin": null
+  },
+  {
+    "id": "outlet_262",
+    "name": "Pete’s Mediterranean Grill",
+    "segment": "modern_restaurant",
+    "sub_type": "restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3060043,
+    "lng": 103.9046678,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 15.52,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.2,
+    "rating_count": 154,
+    "michelin": null
+  },
+  {
+    "id": "outlet_263",
+    "name": "Griglia Open Fire Italian Kitchen - Katong",
+    "segment": "modern_restaurant",
+    "sub_type": "italian_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3062428,
+    "lng": 103.9051607,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 29.52,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.9,
+    "rating_count": 657,
+    "michelin": null
+  },
+  {
+    "id": "outlet_264",
+    "name": "Butter & Spice Katong",
+    "segment": "specialty_cafe",
+    "sub_type": "north_indian_restaurant",
+    "street": "East coast road #01-06 The Flow",
+    "lat": 1.3046156,
+    "lng": 103.90419469999999,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 27.1,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.8,
+    "rating_count": 1242,
+    "michelin": null
+  },
+  {
+    "id": "outlet_265",
+    "name": "Dona Manis Cake Shop",
+    "segment": "bakery_dessert",
+    "sub_type": "bakery",
+    "street": "Mountbatten Rd",
+    "lat": 1.3037602,
+    "lng": 103.900849,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 26.41,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.4,
+    "rating_count": 661,
+    "michelin": null
+  },
+  {
+    "id": "outlet_266",
+    "name": "Etna Italian Restaurant (East Coast)",
+    "segment": "modern_restaurant",
+    "sub_type": "italian_restaurant",
+    "street": "Upper E Coast Rd",
+    "lat": 1.3132206,
+    "lng": 103.9293525,
+    "heritage": false,
+    "established": null,
+    "price_tier": "premium",
+    "avg_spend": 65.02,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.5,
+    "rating_count": 1077,
+    "michelin": null
+  },
+  {
+    "id": "outlet_267",
+    "name": "Katong Yong Tau Foo",
+    "segment": "casual_dining",
+    "sub_type": "restaurant",
+    "street": "Mountbatten Rd #B1-85/87 Katong Shopping Centre",
+    "lat": 1.303471,
+    "lng": 103.9005526,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 23.83,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.5,
+    "rating_count": 88,
+    "michelin": null
+  },
+  {
+    "id": "outlet_268",
+    "name": "Baker's Well",
+    "segment": "bakery_dessert",
+    "sub_type": "bakery",
+    "street": "E Coast Rd",
+    "lat": 1.3047244,
+    "lng": 103.9028012,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 18.15,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4,
+    "rating_count": 284,
+    "michelin": null
+  },
+  {
+    "id": "outlet_269",
+    "name": "Zaffron Kitchen East Coast",
+    "segment": "modern_restaurant",
+    "sub_type": "indian_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3062292,
+    "lng": 103.90498269999999,
+    "heritage": false,
+    "established": null,
+    "price_tier": "premium",
+    "avg_spend": 54.67,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.4,
+    "rating_count": 2181,
+    "michelin": null
+  },
+  {
+    "id": "outlet_270",
+    "name": "Baba Chews",
+    "segment": "modern_restaurant",
+    "sub_type": "restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3050837,
+    "lng": 103.9041376,
+    "heritage": false,
+    "established": null,
+    "price_tier": "premium",
+    "avg_spend": 43.44,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.2,
+    "rating_count": 1108,
+    "michelin": null
+  },
+  {
+    "id": "outlet_271",
+    "name": "Old Bibik's Peranakan Kitchen",
+    "segment": "heritage_peranakan",
+    "sub_type": "restaurant",
+    "street": "Joo Chiat Rd",
+    "lat": 1.3089640999999999,
+    "lng": 103.9024476,
+    "heritage": true,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 28.07,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.1,
+    "rating_count": 524,
+    "michelin": null
+  },
+  {
+    "id": "outlet_272",
+    "name": "Dragoncity Claypot Frog Porridge",
+    "segment": "casual_dining",
+    "sub_type": "restaurant",
+    "street": "Joo Chiat Rd",
+    "lat": 1.3125396999999999,
+    "lng": 103.89991680000001,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 18.18,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.5,
+    "rating_count": 254,
+    "michelin": null
+  },
+  {
+    "id": "outlet_273",
+    "name": "Five Star Kampung Chicken Rice & Kitchen",
+    "segment": "casual_dining",
+    "sub_type": "chicken_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3071411,
+    "lng": 103.9063968,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 25.27,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4,
+    "rating_count": 1167,
+    "michelin": null
+  },
+  {
+    "id": "outlet_274",
+    "name": "Janggut Laksa @Roxy Square",
+    "segment": "casual_dining",
+    "sub_type": "restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3046602,
+    "lng": 103.9038393,
+    "heritage": false,
+    "established": null,
+    "price_tier": "budget",
+    "avg_spend": 5.16,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.2,
+    "rating_count": 832,
+    "michelin": null
+  },
+  {
+    "id": "outlet_275",
+    "name": "Brotzeit German Beer Bar and Restaurant - Katong",
+    "segment": "bars_wine",
+    "sub_type": "german_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3059001,
+    "lng": 103.90513519999999,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 17.41,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.3,
+    "rating_count": 977,
+    "michelin": null
+  },
+  {
+    "id": "outlet_276",
+    "name": "An Açaí Affair - Katong",
+    "segment": "specialty_cafe",
+    "sub_type": "cafe",
+    "street": "E Coast Rd",
+    "lat": 1.3057292999999999,
+    "lng": 103.9042278,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 19.07,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.1,
+    "rating_count": 439,
+    "michelin": null
+  },
+  {
+    "id": "outlet_277",
+    "name": "Two Men Bagel House Joo Chiat",
+    "segment": "specialty_cafe",
+    "sub_type": "cafe",
+    "street": "Joo Chiat Rd",
+    "lat": 1.3067012,
+    "lng": 103.90474739999999,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 26.75,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.5,
+    "rating_count": 353,
+    "michelin": null
+  },
+  {
+    "id": "outlet_278",
+    "name": "Wan Mei Dessert 碗美",
+    "segment": "bakery_dessert",
+    "sub_type": "dessert_shop",
+    "street": "E Coast Rd",
+    "lat": 1.3046902999999999,
+    "lng": 103.9019317,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 16.48,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.5,
+    "rating_count": 353,
+    "michelin": null
+  },
+  {
+    "id": "outlet_279",
+    "name": "Forma",
+    "segment": "modern_restaurant",
+    "sub_type": "italian_restaurant",
+    "street": "Tembeling Rd",
+    "lat": 1.3109525,
+    "lng": 103.90243029999999,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 27.49,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.1,
+    "rating_count": 620,
+    "michelin": null
+  },
+  {
+    "id": "outlet_280",
+    "name": "Old Hen Kitchen",
+    "segment": "specialty_cafe",
+    "sub_type": "cafe",
+    "street": "Owen Rd",
+    "lat": 1.3140338,
+    "lng": 103.8526624,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 25.94,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.4,
+    "rating_count": 583,
+    "michelin": null
+  },
+  {
+    "id": "outlet_281",
+    "name": "Stirling Steaks (115 East Coast Road)",
+    "segment": "casual_dining",
+    "sub_type": "western_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3058071,
+    "lng": 103.90452409999999,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 27.32,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4,
+    "rating_count": 1419,
+    "michelin": null
+  },
+  {
+    "id": "outlet_282",
+    "name": "The Palm Singapore",
+    "segment": "casual_dining",
+    "sub_type": "gym",
+    "street": "E Coast Rd",
+    "lat": 1.3069477,
+    "lng": 103.9062369,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 16.3,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.2,
+    "rating_count": 10,
+    "michelin": null
+  },
+  {
+    "id": "outlet_283",
+    "name": "Blue Smoke",
+    "segment": "bars_wine",
+    "sub_type": "restaurant",
+    "street": "Horne Rd",
+    "lat": 1.3103316,
+    "lng": 103.8611892,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 25.23,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.2,
+    "rating_count": 462,
+    "michelin": null
+  },
+  {
+    "id": "outlet_284",
+    "name": "The Cheese Shop, Joo Chiat",
+    "segment": "casual_dining",
+    "sub_type": "food_store",
+    "street": "Joo Chiat Rd",
+    "lat": 1.3103118999999999,
+    "lng": 103.9018027,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 24.05,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.4,
+    "rating_count": 410,
+    "michelin": null
+  },
+  {
+    "id": "outlet_285",
+    "name": "Mongkok DimSum",
+    "segment": "casual_dining",
+    "sub_type": "dim_sum_restaurant",
+    "street": "Geylang Rd",
+    "lat": 1.3119695999999998,
+    "lng": 103.8768473,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 15.74,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4,
+    "rating_count": 2185,
+    "michelin": null
+  },
+  {
+    "id": "outlet_286",
+    "name": "Lower East Side Tacqueria",
+    "segment": "modern_restaurant",
+    "sub_type": "mexican_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3045738999999998,
+    "lng": 103.90244,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 26.05,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.1,
+    "rating_count": 402,
+    "michelin": null
+  },
+  {
+    "id": "outlet_287",
+    "name": "Touchwood Breakfast Bar",
+    "segment": "bars_wine",
+    "sub_type": "breakfast_restaurant",
+    "street": "Crane Rd",
+    "lat": 1.3125168999999999,
+    "lng": 103.8991119,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 25.79,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 5,
+    "rating_count": 11,
+    "michelin": null
+  },
+  {
+    "id": "outlet_288",
+    "name": "Drops Coffee Studio",
+    "segment": "specialty_cafe",
+    "sub_type": "cafe",
+    "street": "E Coast Rd",
+    "lat": 1.3048769,
+    "lng": 103.90402089999999,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 29.9,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.9,
+    "rating_count": 45,
+    "michelin": null
+  },
+  {
+    "id": "outlet_289",
+    "name": "Cata Coffee",
+    "segment": "specialty_cafe",
+    "sub_type": "cafe",
+    "street": "Joo Chiat Pl",
+    "lat": 1.3134256,
+    "lng": 103.901628,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 18.97,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.6,
+    "rating_count": 206,
+    "michelin": null
+  },
+  {
+    "id": "outlet_290",
+    "name": "Auntie Peng Banana Pie",
+    "segment": "bakery_dessert",
+    "sub_type": "pastry_shop",
+    "street": "Mountbatten Rd",
+    "lat": 1.3039322,
+    "lng": 103.9010371,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 17.84,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.8,
+    "rating_count": 274,
+    "michelin": null
+  },
+  {
+    "id": "outlet_291",
+    "name": "Janie The Bakery | Toast Bar",
+    "segment": "bakery_dessert",
+    "sub_type": "bakery",
+    "street": "Mountbatten Road",
+    "lat": 1.3039676,
+    "lng": 103.9013232,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 24.56,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.1,
+    "rating_count": 22,
+    "michelin": null
+  },
+  {
+    "id": "outlet_292",
+    "name": "Beastly Girls Sandwich Bar",
+    "segment": "specialty_cafe",
+    "sub_type": "cafe",
+    "street": "E Coast Rd",
+    "lat": 1.3044802,
+    "lng": 103.90212700000001,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 26.03,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.7,
+    "rating_count": 134,
+    "michelin": null
+  },
+  {
+    "id": "outlet_293",
+    "name": "Humble Origins Coffee Roasters",
+    "segment": "specialty_cafe",
+    "sub_type": "cafe",
+    "street": "Joo Chiat Rd",
+    "lat": 1.306384,
+    "lng": 103.90470599999999,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 26.84,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.7,
+    "rating_count": 374,
+    "michelin": null
+  },
+  {
+    "id": "outlet_294",
+    "name": "Waved",
+    "segment": "specialty_cafe",
+    "sub_type": "cafe",
+    "street": "Fowlie Rd",
+    "lat": 1.3074658,
+    "lng": 103.90361,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 29.29,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.9,
+    "rating_count": 289,
+    "michelin": null
+  },
+  {
+    "id": "outlet_295",
+    "name": "Banh Mi 233",
+    "segment": "casual_dining",
+    "sub_type": "vietnamese_restaurant",
+    "street": "Joo Chiat Rd",
+    "lat": 1.3127471,
+    "lng": 103.9000978,
+    "heritage": false,
+    "established": null,
+    "price_tier": "budget",
+    "avg_spend": 9.68,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.5,
+    "rating_count": 405,
+    "michelin": null
+  },
+  {
+    "id": "outlet_296",
+    "name": "hay, gelato. (Katong)",
+    "segment": "bakery_dessert",
+    "sub_type": "ice_cream_shop",
+    "street": "E Coast Rd",
+    "lat": 1.3059337,
+    "lng": 103.90468229999999,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 23.31,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.1,
+    "rating_count": 221,
+    "michelin": null
+  },
+  {
+    "id": "outlet_297",
+    "name": "Starbucks - Katong Square",
+    "segment": "specialty_cafe",
+    "sub_type": "cafe",
+    "street": "E Coast Rd",
+    "lat": 1.3051641999999999,
+    "lng": 103.90437229999999,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 19.32,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.1,
+    "rating_count": 376,
+    "michelin": null
+  },
+  {
+    "id": "outlet_298",
+    "name": "Yong Huat Hokkien Mee",
+    "segment": "casual_dining",
+    "sub_type": "restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3059907,
+    "lng": 103.9047657,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 26.19,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 3.6,
+    "rating_count": 187,
+    "michelin": null
+  },
+  {
+    "id": "outlet_299",
+    "name": "Prince of Hokkien Mee",
+    "segment": "casual_dining",
+    "sub_type": "restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3087217,
+    "lng": 103.91180609999999,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 29.43,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 3.7,
+    "rating_count": 103,
+    "michelin": null
+  },
+  {
+    "id": "outlet_300",
+    "name": "Brawn & Brains Coffee",
+    "segment": "specialty_cafe",
+    "sub_type": "cafe",
+    "street": "E Coast Rd",
+    "lat": 1.3074392,
+    "lng": 103.9073695,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 29.12,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.3,
+    "rating_count": 439,
+    "michelin": null
+  },
+  {
+    "id": "outlet_301",
+    "name": "Sin Hoi Sai Eating House",
+    "segment": "casual_dining",
+    "sub_type": "chinese_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3071076,
+    "lng": 103.9062684,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 17.7,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.2,
+    "rating_count": 1253,
+    "michelin": null
+  },
+  {
+    "id": "outlet_302",
+    "name": "Chilli Padi Nonya Restaurant",
+    "segment": "casual_dining",
+    "sub_type": "restaurant",
+    "street": "Joo Chiat Pl",
+    "lat": 1.3134118,
+    "lng": 103.9000851,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 17.69,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.2,
+    "rating_count": 748,
+    "michelin": null
+  },
+  {
+    "id": "outlet_303",
+    "name": "Long Phung - Vietnamese Cuisine",
+    "segment": "casual_dining",
+    "sub_type": "vietnamese_restaurant",
+    "street": "Joo Chiat Rd",
+    "lat": 1.3126982,
+    "lng": 103.90012019999999,
+    "heritage": false,
+    "established": null,
+    "price_tier": "budget",
+    "avg_spend": 7.55,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4,
+    "rating_count": 2046,
+    "michelin": null
+  },
+  {
+    "id": "outlet_304",
+    "name": "Province",
+    "segment": "casual_dining",
+    "sub_type": "restaurant",
+    "street": "Joo Chiat Rd",
+    "lat": 1.3128136,
+    "lng": 103.9000521,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 26.06,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.8,
+    "rating_count": 171,
+    "michelin": null
+  },
+  {
+    "id": "outlet_305",
+    "name": "Picotin - Katong",
+    "segment": "casual_dining",
+    "sub_type": "restaurant",
+    "street": "Joo Chiat Rd",
+    "lat": 1.307825,
+    "lng": 103.9032294,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 20.52,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4,
+    "rating_count": 722,
+    "michelin": null
+  },
+  {
+    "id": "outlet_306",
+    "name": "Masalaa Bar",
+    "segment": "bars_wine",
+    "sub_type": "indian_restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3122359,
+    "lng": 103.92291700000001,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 21.47,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.7,
+    "rating_count": 2785,
+    "michelin": null
+  },
+  {
+    "id": "outlet_307",
+    "name": "Asador Singapore",
+    "segment": "modern_restaurant",
+    "sub_type": "spanish_restaurant",
+    "street": "Joo Chiat Pl",
+    "lat": 1.3135149,
+    "lng": 103.90100609999999,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 25.79,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.5,
+    "rating_count": 770,
+    "michelin": null
+  },
+  {
+    "id": "outlet_308",
+    "name": "Drunken Farmer Wine Online",
+    "segment": "bars_wine",
+    "sub_type": "liquor_store",
+    "street": "Jln Penjara",
+    "lat": 1.2996094,
+    "lng": 103.8066011,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 25.52,
+    "peak_hours": [
+      "18:00-20:00",
+      "21:00-23:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.1,
+    "rating_count": 44,
+    "michelin": null
+  },
+  {
+    "id": "outlet_309",
+    "name": "GREYBOX COFFEE @ i12 Katong",
+    "segment": "specialty_cafe",
+    "sub_type": "cafe",
+    "street": "E Coast Rd",
+    "lat": 1.3052002,
+    "lng": 103.9050645,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 16.31,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.5,
+    "rating_count": 174,
+    "michelin": null
+  },
+  {
+    "id": "outlet_310",
+    "name": "Tim Hortons i12 Katong",
+    "segment": "specialty_cafe",
+    "sub_type": "cafe",
+    "street": "E Coast Rd",
+    "lat": 1.3056112,
+    "lng": 103.90491499999999,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 22.27,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 3.8,
+    "rating_count": 136,
+    "michelin": null
+  },
+  {
+    "id": "outlet_311",
+    "name": "Cheeky Bee Hoon, Katong",
+    "segment": "casual_dining",
+    "sub_type": "restaurant",
+    "street": "E Coast Rd",
+    "lat": 1.3048039999999999,
+    "lng": 103.902931,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 17.44,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.5,
+    "rating_count": 681,
+    "michelin": null
+  },
+  {
+    "id": "outlet_312",
+    "name": "T.G Fish Porridge",
+    "segment": "casual_dining",
+    "sub_type": "restaurant",
+    "street": "Haig Rd",
+    "lat": 1.3154439,
+    "lng": 103.8953796,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 26.7,
+    "peak_hours": [
+      "11:30-13:30",
+      "17:30-19:30"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.4,
+    "rating_count": 29,
+    "michelin": null
+  },
+  {
+    "id": "outlet_313",
+    "name": "Li'l Chef",
+    "segment": "bakery_dessert",
+    "sub_type": "bakery",
+    "street": "Marine Parade Rd",
+    "lat": 1.3007573,
+    "lng": 103.9054475,
+    "heritage": false,
+    "established": null,
+    "price_tier": "mid",
+    "avg_spend": 17.55,
+    "peak_hours": [
+      "08:00-10:30",
+      "12:00-14:00"
+    ],
+    "signature_items": [
+      "Signature Dish 1",
+      "Signature Dish 2"
+    ],
+    "rating": 4.9,
+    "rating_count": 49,
     "michelin": null
   }
 ]
