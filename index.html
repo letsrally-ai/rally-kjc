@@ -137,6 +137,7 @@
       let visible = 0;
       outlets.forEach(o => {
         if (!activeSegments.has(o.segment)) return;
+        if (o.lat == null || o.lng == null) return;
         const m = createMarker(o);
         m.addTo(map);
         markers.push(m);
