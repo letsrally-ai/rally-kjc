@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Katong-Joo Chiat F&B Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    #map { width: 100%; height: 100vh; }
+
+    .legend {
+      position: absolute; top: 12px; right: 12px; z-index: 1000;
+      background: #fff; border-radius: 10px; padding: 14px 16px;
+      box-shadow: 0 2px 12px rgba(0,0,0,.15); max-width: 220px;
+      font-size: 13px;
+    }
+    .legend h3 { font-size: 14px; margin-bottom: 10px; color: #333; }
+    .legend-item {
+      display: flex; align-items: center; gap: 8px;
+      padding: 3px 0; cursor: pointer; user-select: none;
+    }
+    .legend-item.disabled { opacity: .35; }
+    .legend-dot {
+      width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0;
+      border: 2px solid #fff; box-shadow: 0 0 0 1px rgba(0,0,0,.2);
+    }
+    .legend-label { flex: 1; color: #444; }
+    .legend-count { color: #999; font-size: 11px; }
+
+    .info-bar {
+      position: absolute; bottom: 0; left: 0; right: 0; z-index: 1000;
+      background: #fff; padding: 10px 16px; text-align: center;
+      font-size: 13px; color: #666;
+      box-shadow: 0 -2px 8px rgba(0,0,0,.08);
+    }
+    .info-bar strong { color: #333; }
+
+    .leaflet-popup-content-wrapper { border-radius: 8px; }
+    .popup-name { font-weight: 600; font-size: 14px; margin-bottom: 4px; }
+    .popup-meta { font-size: 12px; color: #666; line-height: 1.5; }
+    .popup-badge {
+      display: inline-block; font-size: 10px; padding: 1px 6px;
+      border-radius: 4px; font-weight: 600; margin-top: 4px;
+    }
+    .badge-heritage { background: #FFF3E0; color: #E65100; }
+    .badge-michelin { background: #FFEBEE; color: #C62828; }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <div class="legend" id="legend">
+    <h3>F&B Segments</h3>
+  </div>
+
+  <div class="info-bar" id="info-bar">
+    Loading...
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+    const SEGMENTS = [
+      { id: "heritage_peranakan", label: "Heritage Peranakan", color: "#8B4513" },
+      { id: "heritage_hawker", label: "Heritage Hawker", color: "#D2691E" },
+      { id: "specialty_cafe", label: "Specialty Cafes", color: "#6F4E37" },
+      { id: "bakery_dessert", label: "Bakeries & Dessert", color: "#DEB887" },
+      { id: "bars_wine", label: "Bars & Wine", color: "#722F37" },
+      { id: "modern_restaurant", label: "Modern Restaurants", color: "#2F4F4F" },
+      { id: "hawker_centre", label: "Hawker Centres", color: "#8FBC8F" },
+      { id: "gourmet_retail", label: "Gourmet Retail", color: "#4682B4" },
+      { id: "casual_dining", label: "Casual Dining", color: "#708090" }
+    ];
+
+    const segmentMap = Object.fromEntries(SEGMENTS.map(s => [s.id, s]));
+    const activeSegments = new Set(SEGMENTS.map(s => s.id));
+
+    // Init map centered on Katong/Joo Chiat
+    const map = L.map('map', { zoomControl: false }).setView([1.3085, 103.9030], 15);
+
+    L.control.zoom({ position: 'bottomright' }).addTo(map);
+
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+      attribution: '&copy; OpenStreetMap &copy; CARTO',
+      maxZoom: 19
+    }).addTo(map);
+
+    let markers = [];
+    let outlets = [];
+
+    function createMarker(o) {
+      const seg = segmentMap[o.segment] || { color: '#999', label: o.segment };
+      const marker = L.circleMarker([o.lat, o.lng], {
+        radius: 7,
+        fillColor: seg.color,
+        color: '#fff',
+        weight: 2,
+        fillOpacity: 0.85
+      });
+
+      let badges = '';
+      if (o.heritage) badges += '<span class="popup-badge badge-heritage">Heritage</span> ';
+      if (o.michelin) badges += '<span class="popup-badge badge-michelin">Michelin</span> ';
+
+      const rating = o.rating ? `${o.rating}★ (${o.rating_count})` : '';
+      const price = o.price_tier ? o.price_tier.charAt(0).toUpperCase() + o.price_tier.slice(1) : '';
+      const spend = o.avg_spend ? `~$${o.avg_spend.toFixed(0)}` : '';
+
+      marker.bindPopup(`
+        <div class="popup-name">${o.name}</div>
+        <div class="popup-meta">
+          <span style="color:${seg.color}; font-weight:600">${seg.label}</span> &middot; ${o.sub_type}<br>
+          ${o.street}${rating ? '<br>' + rating : ''}${price ? ' &middot; ' + price : ''}${spend ? ' &middot; ' + spend : ''}
+        </div>
+        ${badges}
+      `, { maxWidth: 250 });
+
+      return marker;
+    }
+
+    function updateMap() {
+      markers.forEach(m => map.removeLayer(m));
+      markers = [];
+      let visible = 0;
+      outlets.forEach(o => {
+        if (!activeSegments.has(o.segment)) return;
+        const m = createMarker(o);
+        m.addTo(map);
+        markers.push(m);
+        visible++;
+      });
+      document.getElementById('info-bar').innerHTML =
+        `Showing <strong>${visible}</strong> of <strong>${outlets.length}</strong> F&B establishments across <strong>${activeSegments.size}</strong> segments`;
+    }
+
+    function buildLegend() {
+      const legend = document.getElementById('legend');
+      const counts = {};
+      outlets.forEach(o => { counts[o.segment] = (counts[o.segment] || 0) + 1; });
+
+      SEGMENTS.forEach(seg => {
+        const item = document.createElement('div');
+        item.className = 'legend-item';
+        item.innerHTML = `
+          <div class="legend-dot" style="background:${seg.color}"></div>
+          <span class="legend-label">${seg.label}</span>
+          <span class="legend-count">${counts[seg.id] || 0}</span>
+        `;
+        item.addEventListener('click', () => {
+          if (activeSegments.has(seg.id)) {
+            activeSegments.delete(seg.id);
+            item.classList.add('disabled');
+          } else {
+            activeSegments.add(seg.id);
+            item.classList.remove('disabled');
+          }
+          updateMap();
+        });
+        legend.appendChild(item);
+      });
+    }
+
+    // Load data
+    fetch('data/outlets.json')
+      .then(r => r.json())
+      .then(data => {
+        outlets = data;
+        buildLegend();
+        updateMap();
+      })
+      .catch(err => {
+        document.getElementById('info-bar').textContent = 'Error loading data: ' + err.message;
+      });
+  </script>
+</body>
+</html>
